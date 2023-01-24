@@ -4,8 +4,11 @@ figure(100)
 %read in shapefile
 lonlim=[60, 80];
 latlim = [20, 40];
-huc = shaperead('pakistan_districts.shp','UseGeoCoords', true, 'BoundingBox', [lonlim',latlim']);
+parentDirectory = fileparts(cd);
+huc = shaperead([parentDirectory, '/data/pakistan_districts/pakistan_districts.shp'],'UseGeoCoords', true, 'BoundingBox', [lonlim',latlim']);
 lenS = length(huc);
+figure(1)
+cmp = colormap(autumn(lenS));
 faceColors = makesymbolspec('Polygon',{'INDEX',[1 lenS],'FaceColor',cmp});
 %lenS is the number of polygon
 
