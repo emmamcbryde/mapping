@@ -1,0 +1,1116 @@
+ILOC_CODE_2016,ILOC_NAME_2016,IARE_CODE_2016,IARE_NAME_2016,IREG_CODE_2016,IREG_NAME_2016,STATE_CODE_2016,STATE_NAME_2016,AREA_ALBERS_SQKM
+10100101,Bogan,101001,Bogan,101,Dubbo,1,New South Wales,14999.2903
+10100201,Dubbo - East,101002,Dubbo,101,Dubbo,1,New South Wales,24.6352
+10100202,Dubbo - North,101002,Dubbo,101,Dubbo,1,New South Wales,22.6494
+10100203,Dubbo - South,101002,Dubbo,101,Dubbo,1,New South Wales,6.7414
+10100204,Dubbo - Surrounds,101002,Dubbo,101,Dubbo,1,New South Wales,3734.9199
+10100205,Dubbo - West,101002,Dubbo,101,Dubbo,1,New South Wales,14.114
+10100301,Gilgandra,101003,Gilgandra,101,Dubbo,1,New South Wales,4442.6569
+10100401,Narromine,101004,Narromine,101,Dubbo,1,New South Wales,13.455
+10100402,Narromine - Surrounds,101004,Narromine,101,Dubbo,1,New South Wales,5940.8219
+10100403,Trangie,101004,Narromine,101,Dubbo,1,New South Wales,1.9766
+10100501,Parkes,101005,Parkes,101,Dubbo,1,New South Wales,16.9806
+10100502,Parkes - Surrounds,101005,Parkes,101,Dubbo,1,New South Wales,5632.2963
+10100503,Peak Hill,101005,Parkes,101,Dubbo,1,New South Wales,3.6436
+10100601,Warren,101006,Warren,101,Dubbo,1,New South Wales,9681.251
+10100701,Coonabarabran,101007,Warrumbungle Shire,101,Dubbo,1,New South Wales,11.0219
+10100702,Coonabarabran - Surrounds,101007,Warrumbungle Shire,101,Dubbo,1,New South Wales,10463.1113
+10100801,Wellington,101008,Wellington,101,Dubbo,1,New South Wales,9.3292
+10100802,Wellington - Surrounds,101008,Wellington,101,Dubbo,1,New South Wales,4102.1768
+10200101,Armidale,102001,Armidale,102,North-Eastern NSW,1,New South Wales,3760.1184
+10200201,Glen Innes,102002,Glen Innes,102,North-Eastern NSW,1,New South Wales,5479.977
+10200301,Gunnedah,102003,Gunnedah,102,North-Eastern NSW,1,New South Wales,33.352
+10200302,Gunnedah - Surrounds,102003,Gunnedah,102,North-Eastern NSW,1,New South Wales,4907.9365
+10200401,Guyra,102004,Guyra - Tingha,102,North-Eastern NSW,1,New South Wales,4675.7857
+10200402,Tingha,102004,Guyra - Tingha,102,North-Eastern NSW,1,New South Wales,2.404
+10200501,Gwydir,102005,Inverell - Gwydir,102,North-Eastern NSW,1,New South Wales,8788.6172
+10200502,Inverell,102005,Inverell - Gwydir,102,North-Eastern NSW,1,New South Wales,8650.603
+10200601,Liverpool Plains,102006,Liverpool Plains,102,North-Eastern NSW,1,New South Wales,5061.887
+10200602,Quirindi,102006,Liverpool Plains,102,North-Eastern NSW,1,New South Wales,9.7799
+10200603,Walhallow Reserve (Carooma),102006,Liverpool Plains,102,North-Eastern NSW,1,New South Wales,0.7243
+10200604,Werris Creek,102006,Liverpool Plains,102,North-Eastern NSW,1,New South Wales,5.4511
+10200701,Moree - North,102007,Moree,102,North-Eastern NSW,1,New South Wales,3.7889
+10200702,Moree - South,102007,Moree,102,North-Eastern NSW,1,New South Wales,8.5969
+10200703,Moree - West,102007,Moree,102,North-Eastern NSW,1,New South Wales,23.4059
+10200704,Stanley Village,102007,Moree,102,North-Eastern NSW,1,New South Wales,3.5093
+10200801,Boggabilla,102008,Moree Plains,102,North-Eastern NSW,1,New South Wales,4.3221
+10200802,Moree Plains,102008,Moree Plains,102,North-Eastern NSW,1,New South Wales,17481.3758
+10200803,Mungindi,102008,Moree Plains,102,North-Eastern NSW,1,New South Wales,2.2154
+10200804,Toomelah,102008,Moree Plains,102,North-Eastern NSW,1,New South Wales,799.813
+10200901,Muswellbrook,102009,Muswellbrook,102,North-Eastern NSW,1,New South Wales,11.8912
+10200902,Muswellbrook - Surrounds,102009,Muswellbrook,102,North-Eastern NSW,1,New South Wales,3392.9928
+10201001,Narrabri,102010,Narrabri,102,North-Eastern NSW,1,New South Wales,15.0958
+10201002,Narrabri - Surrounds,102010,Narrabri,102,North-Eastern NSW,1,New South Wales,13041.1012
+10201003,Wee Waa,102010,Narrabri,102,North-Eastern NSW,1,New South Wales,4.5377
+10201101,Tamworth,102011,Tamworth,102,North-Eastern NSW,1,New South Wales,240.745
+10201102,Tamworth - Surrounds,102011,Tamworth,102,North-Eastern NSW,1,New South Wales,8980.4841
+10201201,Jubullum Village,102012,Tenterfield - Jubullum Village,102,North-Eastern NSW,1,New South Wales,0.9837
+10201202,Tenterfield,102012,Tenterfield - Jubullum Village,102,North-Eastern NSW,1,New South Wales,7321.8093
+10201301,Upper Hunter,102013,Upper Hunter,102,North-Eastern NSW,1,New South Wales,8067.533
+10201401,Uralla,102014,Uralla - Walcha,102,North-Eastern NSW,1,New South Wales,3094.9609
+10201402,Walcha,102014,Uralla - Walcha,102,North-Eastern NSW,1,New South Wales,6742.5352
+10300101,Bourke,103001,Bourke,103,North-Western NSW,1,New South Wales,6.5338
+10300102,Bourke - Surrounds,103001,Bourke,103,North-Western NSW,1,New South Wales,42022.777
+10300201,Brewarrina,103002,Brewarrina,103,North-Western NSW,1,New South Wales,4.8359
+10300202,Brewarrina - Surrounds,103002,Brewarrina,103,North-Western NSW,1,New South Wales,18507.2532
+10300203,Goodooga,103002,Brewarrina,103,North-Western NSW,1,New South Wales,1.1289
+10300301,Cobar,103003,Cobar - Murrin Bridge,103,North-Western NSW,1,New South Wales,45547.4195
+10300302,Murrin Bridge,103003,Cobar - Murrin Bridge,103,North-Western NSW,1,New South Wales,3.9786
+10300401,Coonamble,103004,Coonamble,103,North-Western NSW,1,New South Wales,10.1732
+10300402,Coonamble - Surrounds,103004,Coonamble,103,North-Western NSW,1,New South Wales,9613.0001
+10300403,Gulargambone,103004,Coonamble,103,North-Western NSW,1,New South Wales,5.4223
+10300501,Broken Hill,103005,Far West,103,North-Western NSW,1,New South Wales,170.1153
+10300502,Broken Hill - Surrounds,103005,Far West,103,North-Western NSW,1,New South Wales,146679.6149
+10300503,Menindee,103005,Far West,103,North-Western NSW,1,New South Wales,7.6491
+10300504,Wilcannia,103005,Far West,103,North-Western NSW,1,New South Wales,2.7965
+10300601,Collarenebri,103006,Walgett,103,North-Western NSW,1,New South Wales,1.1145
+10300602,Gingie Reserve,103006,Walgett,103,North-Western NSW,1,New South Wales,1.6608
+10300603,Lightning Ridge,103006,Walgett,103,North-Western NSW,1,New South Wales,2.9268
+10300605,Walgett,103006,Walgett,103,North-Western NSW,1,New South Wales,5.7855
+10300607,Walgett - Surrounds (inc. Namoi Reserve),103006,Walgett,103,North-Western NSW,1,New South Wales,23301.3558
+10400101,Bagotville,104001,Ballina - Bagotville,104,NSW Central and North Coast,1,New South Wales,80.2488
+10400102,Ballina,104001,Ballina - Bagotville,104,NSW Central and North Coast,1,New South Wales,25.4978
+10400103,Ballina - Surrounds,104001,Ballina - Bagotville,104,NSW Central and North Coast,1,New South Wales,374.7779
+10400201,Byron,104002,Byron,104,NSW Central and North Coast,1,New South Wales,568.1144
+10400301,Cessnock - Bellbird - Aberdare,104003,Cessnock,104,NSW Central and North Coast,1,New South Wales,18.7561
+10400302,Cessnock - Surrounds,104003,Cessnock,104,NSW Central and North Coast,1,New South Wales,1936.2013
+10400303,Kurri Kurri - Weston,104003,Cessnock,104,NSW Central and North Coast,1,New South Wales,13.2501
+10400401,Baryulgil - Malabugilmah,104004,Clarence Valley,104,NSW Central and North Coast,1,New South Wales,1984.8335
+10400402,Clarence Valley,104004,Clarence Valley,104,NSW Central and North Coast,1,New South Wales,5774.9858
+10400403,Grafton,104004,Clarence Valley,104,NSW Central and North Coast,1,New South Wales,581.4799
+10400404,Yamba,104004,Clarence Valley,104,NSW Central and North Coast,1,New South Wales,8.8924
+10400405,Yamba - Surrounds,104004,Clarence Valley,104,NSW Central and North Coast,1,New South Wales,2105.8985
+10400501,Bellingen,104005,Coffs Harbour - Nambucca,104,NSW Central and North Coast,1,New South Wales,1620.8348
+10400502,Bowraville,104005,Coffs Harbour - Nambucca,104,NSW Central and North Coast,1,New South Wales,2.2294
+10400503,Coffs Harbour,104005,Coffs Harbour - Nambucca,104,NSW Central and North Coast,1,New South Wales,1139.6078
+10400504,Macksville,104005,Coffs Harbour - Nambucca,104,NSW Central and North Coast,1,New South Wales,15.8438
+10400505,Nambucca - Surrounds,104005,Coffs Harbour - Nambucca,104,NSW Central and North Coast,1,New South Wales,1441.7236
+10400506,Nambucca Heads,104005,Coffs Harbour - Nambucca,104,NSW Central and North Coast,1,New South Wales,11.1453
+10400507,Sawtell,104005,Coffs Harbour - Nambucca,104,NSW Central and North Coast,1,New South Wales,13.2251
+10400601,Dungog,104006,Gloucester - Dungog,104,NSW Central and North Coast,1,New South Wales,2249.9983
+10400602,Gloucester,104006,Gloucester - Dungog,104,NSW Central and North Coast,1,New South Wales,2933.8676
+10400701,Gosford - East,104007,Gosford,104,NSW Central and North Coast,1,New South Wales,112.5828
+10400702,Gosford - West,104007,Gosford,104,NSW Central and North Coast,1,New South Wales,828.6738
+10400801,Bulahdelah,104008,Great Lakes,104,NSW Central and North Coast,1,New South Wales,3313.0092
+10400802,Forster,104008,Great Lakes,104,NSW Central and North Coast,1,New South Wales,15.2601
+10400803,Tuncurry,104008,Great Lakes,104,NSW Central and North Coast,1,New South Wales,9.0917
+10400901,Kempsey,104009,Kempsey,104,NSW Central and North Coast,1,New South Wales,12.1985
+10400902,Kempsey - Surrounds,104009,Kempsey,104,NSW Central and North Coast,1,New South Wales,2213.6254
+10400903,Mirriwinni Gardens - Bellbrook,104009,Kempsey,104,NSW Central and North Coast,1,New South Wales,1583.12
+10400904,Old Burnt - New Burnt Bridge - Greenhill,104009,Kempsey,104,NSW Central and North Coast,1,New South Wales,43.9162
+10400905,South West Rocks,104009,Kempsey,104,NSW Central and North Coast,1,New South Wales,15.5227
+10401001,Kyogle,104010,Kyogle,104,NSW Central and North Coast,1,New South Wales,3251.4745
+10401002,Muli Muli - Woodenbong,104010,Kyogle,104,NSW Central and North Coast,1,New South Wales,300.2742
+10401101,Lake Macquarie - East,104011,Lake Macquarie,104,NSW Central and North Coast,1,New South Wales,84.4432
+10401102,Lake Macquarie - North,104011,Lake Macquarie,104,NSW Central and North Coast,1,New South Wales,155.4672
+10401103,Lake Macquarie - West,104011,Lake Macquarie,104,NSW Central and North Coast,1,New South Wales,406.7154
+10401201,Goonellabah,104012,Lismore,104,NSW Central and North Coast,1,New South Wales,25.2269
+10401202,Lismore - North,104012,Lismore,104,NSW Central and North Coast,1,New South Wales,64.0396
+10401203,Lismore - South,104012,Lismore,104,NSW Central and North Coast,1,New South Wales,78.9964
+10401204,Lismore - Surrounds,104012,Lismore,104,NSW Central and North Coast,1,New South Wales,1134.2285
+10401301,Maitland,104013,Maitland,104,NSW Central and North Coast,1,New South Wales,388.5305
+10401401,Newcastle - Inner City,104014,Newcastle,104,NSW Central and North Coast,1,New South Wales,57.2118
+10401402,Newcastle - Outer West,104014,Newcastle,104,NSW Central and North Coast,1,New South Wales,101.8904
+10401403,Throsby,104014,Newcastle,104,NSW Central and North Coast,1,New South Wales,29.6388
+10401501,Hastings,104015,Port Macquarie - Hastings,104,NSW Central and North Coast,1,New South Wales,3624.4198
+10401502,Port Macquarie,104015,Port Macquarie - Hastings,104,NSW Central and North Coast,1,New South Wales,54.4224
+10401503,Wauchope,104015,Port Macquarie - Hastings,104,NSW Central and North Coast,1,New South Wales,8.9278
+10401601,Karuah,104016,Port Stephens,104,NSW Central and North Coast,1,New South Wales,3.0402
+10401602,Medowie,104016,Port Stephens,104,NSW Central and North Coast,1,New South Wales,21.1044
+10401603,Nelson Bay,104016,Port Stephens,104,NSW Central and North Coast,1,New South Wales,19.0109
+10401604,Port Stephens - Surrounds,104016,Port Stephens,104,NSW Central and North Coast,1,New South Wales,820.7332
+10401605,Raymond Terrace,104016,Port Stephens,104,NSW Central and North Coast,1,New South Wales,30.6032
+10401701,Casino,104017,Richmond Valley,104,NSW Central and North Coast,1,New South Wales,66.559
+10401702,Coraki,104017,Richmond Valley,104,NSW Central and North Coast,1,New South Wales,3.0021
+10401703,Richmond Valley exc. Casino,104017,Richmond Valley,104,NSW Central and North Coast,1,New South Wales,2991.0462
+10401801,Singleton,104018,Singleton,104,NSW Central and North Coast,1,New South Wales,4348.5751
+10401901,Purfleet,104019,Taree,104,NSW Central and North Coast,1,New South Wales,7.5225
+10401902,Taree,104019,Taree,104,NSW Central and North Coast,1,New South Wales,55.7552
+10401903,Taree - Surrounds,104019,Taree,104,NSW Central and North Coast,1,New South Wales,3670.6673
+10401904,Wingham,104019,Taree,104,NSW Central and North Coast,1,New South Wales,7.2556
+10402001,Murwillumbah,104020,Tweed,104,NSW Central and North Coast,1,New South Wales,1058.2154
+10402002,Tweed Coast,104020,Tweed,104,NSW Central and North Coast,1,New South Wales,129.0023
+10402003,Tweed Heads,104020,Tweed,104,NSW Central and North Coast,1,New South Wales,120.4385
+10402101,Wyong - North-East,104021,Wyong,104,NSW Central and North Coast,1,New South Wales,181.2653
+10402102,Wyong - South-West,104021,Wyong,104,NSW Central and North Coast,1,New South Wales,558.5505
+10500101,Albury - East,105001,Albury,105,Riverina - Orange,1,New South Wales,156.2986
+10500102,Albury - West,105001,Albury,105,Riverina - Orange,1,New South Wales,197.556
+10500201,Balranald,105002,Balranald - Wentworth,105,Riverina - Orange,1,New South Wales,3.5294
+10500202,Balranald - Wentworth - Surrounds,105002,Balranald - Wentworth,105,Riverina - Orange,1,New South Wales,49739.6219
+10500203,Coomealla,105002,Balranald - Wentworth,105,Riverina - Orange,1,New South Wales,0.8277
+10500204,Dareton,105002,Balranald - Wentworth,105,Riverina - Orange,1,New South Wales,2.3981
+10500205,Wentworth,105002,Balranald - Wentworth,105,Riverina - Orange,1,New South Wales,4.6047
+10500301,Bathurst,105003,Bathurst,105,Riverina - Orange,1,New South Wales,3809.6001
+10500401,Blayney - Cabonne,105004,Blayney - Cabonne,105,Riverina - Orange,1,New South Wales,6735.0683
+10500501,Carrathool - Murrumbidgee - Surrounds,105005,Carrathool - Murrumbidgee,105,Riverina - Orange,1,New South Wales,20426.5359
+10500502,Darlington Point,105005,Carrathool - Murrumbidgee,105,Riverina - Orange,1,New South Wales,4.3684
+10500503,Hillston,105005,Carrathool - Murrumbidgee,105,Riverina - Orange,1,New South Wales,6.3583
+10500601,Central Murray,105006,Central Murray,105,Riverina - Orange,1,New South Wales,33818.7089
+10500701,Coolamon - Temora - West Wyalong,105007,Coolamon - Temora - West Wyalong,105,Riverina - Orange,1,New South Wales,16807.2401
+10500801,Cootamundra,105008,Cootamundra,105,Riverina - Orange,1,New South Wales,1656.1223
+10500901,Cowra,105009,Cowra,105,Riverina - Orange,1,New South Wales,2897.8761
+10501001,Deniliquin,105010,Deniliquin - Murray,105,Riverina - Orange,1,New South Wales,143.2081
+10501002,Murray,105010,Deniliquin - Murray,105,Riverina - Orange,1,New South Wales,4343.0784
+10501101,Forbes,105011,Forbes,105,Riverina - Orange,1,New South Wales,4227.7726
+10501201,Griffith,105012,Griffith - Leeton,105,Riverina - Orange,1,New South Wales,1571.1695
+10501202,Leeton,105012,Griffith - Leeton,105,Riverina - Orange,1,New South Wales,1190.1673
+10501301,Gundagai - Junee - Harden,105013,Gundagai - Junee - Harden,105,Riverina - Orange,1,New South Wales,6252.0815
+10501401,Condobolin,105014,Lachlan,105,Riverina - Orange,1,New South Wales,8.6918
+10501402,Lachlan,105014,Lachlan,105,Riverina - Orange,1,New South Wales,15844.069
+10501403,Lake Cargelligo,105014,Lachlan,105,Riverina - Orange,1,New South Wales,6.0893
+10501501,Lithgow,105015,Lithgow - Oberon,105,Riverina - Orange,1,New South Wales,5082.782
+10501502,Oberon,105015,Lithgow - Oberon,105,Riverina - Orange,1,New South Wales,3174.5829
+10501601,Mudgee,105016,Mudgee,105,Riverina - Orange,1,New South Wales,10961.8426
+10501701,Narrandera,105017,Narrandera,105,Riverina - Orange,1,New South Wales,3809.1327
+10501801,Bletchington,105018,Orange,105,Riverina - Orange,1,New South Wales,5.3278
+10501802,Bowen,105018,Orange,105,Riverina - Orange,1,New South Wales,6.8768
+10501803,Calare,105018,Orange,105,Riverina - Orange,1,New South Wales,8.2042
+10501804,Glenroi,105018,Orange,105,Riverina - Orange,1,New South Wales,3.6048
+10501805,Orange - Central,105018,Orange,105,Riverina - Orange,1,New South Wales,3.4286
+10501806,Orange - Surrounds,105018,Orange,105,Riverina - Orange,1,New South Wales,248.9448
+10501807,Warrendine - Bloomfield,105018,Orange,105,Riverina - Orange,1,New South Wales,7.8287
+10501901,Tumut,105019,Tumut,105,Riverina - Orange,1,New South Wales,4654.0511
+10502001,Upper Murray,105020,Upper Murray,105,Riverina - Orange,1,New South Wales,18641.2839
+10502101,Wagga Wagga - East,105021,Wagga Wagga,105,Riverina - Orange,1,New South Wales,21.0978
+10502102,Wagga Wagga - North,105021,Wagga Wagga,105,Riverina - Orange,1,New South Wales,9.2653
+10502103,Wagga Wagga - South,105021,Wagga Wagga,105,Riverina - Orange,1,New South Wales,25.9164
+10502104,Wagga Wagga - Surrounds,105021,Wagga Wagga,105,Riverina - Orange,1,New South Wales,4818.7631
+10502105,Wagga Wagga - West,105021,Wagga Wagga,105,Riverina - Orange,1,New South Wales,9.5412
+10502201,Young,105022,Young,105,Riverina - Orange,1,New South Wales,2643.8841
+10600101,Bega,106001,Bega Valley,106,South-Eastern NSW,1,New South Wales,13.2533
+10600102,Bega - Surrounds,106001,Bega Valley,106,South-Eastern NSW,1,New South Wales,7921.0479
+10600103,Eden,106001,Bega Valley,106,South-Eastern NSW,1,New South Wales,8.161
+10600201,Batemans Bay,106002,Eurobodalla,106,South-Eastern NSW,1,New South Wales,94.1612
+10600202,Bodalla,106002,Eurobodalla,106,South-Eastern NSW,1,New South Wales,1.0239
+10600203,Eurobodalla,106002,Eurobodalla,106,South-Eastern NSW,1,New South Wales,1803.1346
+10600204,Moruya,106002,Eurobodalla,106,South-Eastern NSW,1,New South Wales,10.8211
+10600205,Narooma,106002,Eurobodalla,106,South-Eastern NSW,1,New South Wales,7.4279
+10600206,Wallaga Lake,106002,Eurobodalla,106,South-Eastern NSW,1,New South Wales,5.8371
+10600301,Culburra - Orient Point,106003,Shoalhaven,106,South-Eastern NSW,1,New South Wales,7.0568
+10600302,Nowra,106003,Shoalhaven,106,South-Eastern NSW,1,New South Wales,26.3727
+10600303,Shoalhaven,106003,Shoalhaven,106,South-Eastern NSW,1,New South Wales,4340.9962
+10600401,Queanbeyan,106004,Snowy - Monaro,106,South-Eastern NSW,1,New South Wales,197.0589
+10600402,Snowy - Monaro,106004,Snowy - Monaro,106,South-Eastern NSW,1,New South Wales,20463.1803
+10600501,Goulburn Mulwaree,106005,Southern Tablelands,106,South-Eastern NSW,1,New South Wales,3123.7582
+10600502,Southern Tablelands,106005,Southern Tablelands,106,South-Eastern NSW,1,New South Wales,13684.1308
+10600503,Wingecaribee,106005,Southern Tablelands,106,South-Eastern NSW,1,New South Wales,3074.3567
+10700101,Auburn,107001,Auburn,107,Sydney - Wollongong,1,New South Wales,32.4769
+10700201,Baulkham Hills,107002,Baulkham Hills,107,Sydney - Wollongong,1,New South Wales,400.4142
+10700301,Bidwill,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,1.6945
+10700302,Blackett,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,1.2537
+10700303,Blacktown - North,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,86.6735
+10700304,Blacktown - South,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,60.9866
+10700305,Dharruk,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,0.9417
+10700306,Doonside - Woodcroft,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,12.857
+10700307,Emerton,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,0.7055
+10700308,Glendenning,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,5.6077
+10700309,Hassall Grove - Oakhurst - Plumpton,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,4.8334
+10700310,Hebersham,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,1.4996
+10700311,Kings Langley,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,5.1858
+10700312,Lalor Park,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,4.3143
+10700313,Lethbridge Park,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,1.6238
+10700314,Marayong,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,3.3882
+10700315,Mount Druitt - Whalan,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,9.0808
+10700316,Parklea - Glenwood - Acacia Gardens,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,11.3118
+10700317,Quakers Hill,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,11.2654
+10700318,Rooty Hill,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,8.4684
+10700319,Shalvey - Willmot,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,2.4987
+10700320,Tregear - Ropes Crossing,107003,Blacktown,107,Sydney - Wollongong,1,New South Wales,7.1447
+10700401,Blaxland - Glenbrook,107004,Blue Mountains,107,Sydney - Wollongong,1,New South Wales,15.271
+10700402,Blue Mountains -  Surrounds,107004,Blue Mountains,107,Sydney - Wollongong,1,New South Wales,818.2783
+10700403,Katoomba,107004,Blue Mountains,107,Sydney - Wollongong,1,New South Wales,56.2077
+10700404,Lawson,107004,Blue Mountains,107,Sydney - Wollongong,1,New South Wales,40.8106
+10700405,Springwood,107004,Blue Mountains,107,Sydney - Wollongong,1,New South Wales,11.8403
+10700501,Botany Bay,107005,Botany Bay,107,Sydney - Wollongong,1,New South Wales,16.0828
+10700601,Camden,107006,Camden,107,Sydney - Wollongong,1,New South Wales,206.0063
+10700701,Airds,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,2.3808
+10700702,Ambarvale - Glen Alpine,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,5.5115
+10700703,Bradbury,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,3.7338
+10700704,Campbelltown - Surrounds,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,212.0175
+10700705,Campbelltown - Woodbine - Leumeah,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,17.3217
+10700706,Claymore - Eagle Vale,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,10.4405
+10700707,Ingleburn - Denham Court,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,30.9189
+10700708,Macquarie Fields - Glenfield,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,16.0182
+10700709,Minto,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,10.3311
+10700710,Raby - St Andrews - Kearns,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,14.5585
+10700711,Rosemeadow,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,2.9755
+10700712,Ruse,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,2.8493
+10700713,St Helens Park,107007,Campbelltown,107,Sydney - Wollongong,1,New South Wales,5.1648
+10700801,Bankstown - North-East,107008,Canterbury - Bankstown,107,Sydney - Wollongong,1,New South Wales,16.9343
+10700802,Bankstown - North-West,107008,Canterbury - Bankstown,107,Sydney - Wollongong,1,New South Wales,31.3104
+10700803,Bankstown - South,107008,Canterbury - Bankstown,107,Sydney - Wollongong,1,New South Wales,28.896
+10700804,Canterbury,107008,Canterbury - Bankstown,107,Sydney - Wollongong,1,New South Wales,33.5629
+10700901,Fairfield - East,107009,Fairfield,107,Sydney - Wollongong,1,New South Wales,37.4007
+10700902,Fairfield - West,107009,Fairfield,107,Sydney - Wollongong,1,New South Wales,91.8863
+10701001,Hawkesbury,107010,Hawkesbury,107,Sydney - Wollongong,1,New South Wales,2511.8444
+10701002,Hawkesbury - Richmond,107010,Hawkesbury,107,Sydney - Wollongong,1,New South Wales,54.8385
+10701003,Hawkesbury - Windsor,107010,Hawkesbury,107,Sydney - Wollongong,1,New South Wales,92.2811
+10701101,Holroyd,107011,Holroyd,107,Sydney - Wollongong,1,New South Wales,40.0216
+10701201,Hornsby - Ku-ring-gai,107012,Hornsby - Ku-ring-gai,107,Sydney - Wollongong,1,New South Wales,551.671
+10701301,Hunters Hill - Ryde,107013,Hunters Hill - Ryde,107,Sydney - Wollongong,1,New South Wales,46.1917
+10701401,Hurstville,107014,Hurstville - Kogarah,107,Sydney - Wollongong,1,New South Wales,22.7212
+10701402,Kogarah,107014,Hurstville - Kogarah,107,Sydney - Wollongong,1,New South Wales,15.593
+10701501,Kiama,107015,Kiama - Shellharbour,107,Sydney - Wollongong,1,New South Wales,243.3772
+10701502,Shellharbour,107015,Kiama - Shellharbour,107,Sydney - Wollongong,1,New South Wales,147.4211
+10701601,Leichhardt,107016,Leichhardt,107,Sydney - Wollongong,1,New South Wales,10.6577
+10701701,Liverpool - East,107017,Liverpool,107,Sydney - Wollongong,1,New South Wales,114.9565
+10701702,Liverpool - West,107017,Liverpool,107,Sydney - Wollongong,1,New South Wales,160.177
+10701801,Lord Howe Island,107018,Lord Howe Island,107,Sydney - Wollongong,1,New South Wales,16.2918
+10701901,Marrickville,107019,Marrickville,107,Sydney - Wollongong,1,New South Wales,16.6538
+10702001,Manly - Warringah,107020,Northern Beaches,107,Sydney - Wollongong,1,New South Wales,163.5579
+10702002,Pittwater,107020,Northern Beaches,107,Sydney - Wollongong,1,New South Wales,90.6495
+10702101,Parramatta - Central,107021,Parramatta,107,Sydney - Wollongong,1,New South Wales,17.9984
+10702102,Parramatta - North-East,107021,Parramatta,107,Sydney - Wollongong,1,New South Wales,17.9064
+10702103,Parramatta - North-West,107021,Parramatta,107,Sydney - Wollongong,1,New South Wales,13.4696
+10702104,Parramatta - South,107021,Parramatta,107,Sydney - Wollongong,1,New South Wales,11.0017
+10702201,Cranebrook - Londonberry,107022,Penrith,107,Sydney - Wollongong,1,New South Wales,152.9533
+10702202,Glenmore Park,107022,Penrith,107,Sydney - Wollongong,1,New South Wales,9.233
+10702203,Penrith - Central,107022,Penrith,107,Sydney - Wollongong,1,New South Wales,19.4122
+10702204,Penrith - Inner East,107022,Penrith,107,Sydney - Wollongong,1,New South Wales,20.61
+10702205,Penrith - Outer East,107022,Penrith,107,Sydney - Wollongong,1,New South Wales,17.5167
+10702206,Penrith - South,107022,Penrith,107,Sydney - Wollongong,1,New South Wales,182.0991
+10702207,Penrith - West,107022,Penrith,107,Sydney - Wollongong,1,New South Wales,13.794
+10702301,La Perouse,107023,Randwick - La Perouse,107,Sydney - Wollongong,1,New South Wales,5.2108
+10702302,Randwick,107023,Randwick - La Perouse,107,Sydney - Wollongong,1,New South Wales,31.1203
+10702401,Rockdale,107024,Rockdale,107,Sydney - Wollongong,1,New South Wales,33.9676
+10702501,Sutherland Shire - East,107025,Sutherland Shire,107,Sydney - Wollongong,1,New South Wales,195.044
+10702502,Sutherland Shire - West,107025,Sutherland Shire,107,Sydney - Wollongong,1,New South Wales,101.2197
+10702601,Alexandria - Darlington - Waterloo,107026,Sydney - City,107,Sydney - Wollongong,1,New South Wales,10.9069
+10702602,Darlinghurst - Paddington - Surry Hills,107026,Sydney - City,107,Sydney - Wollongong,1,New South Wales,6.5848
+10702603,Glebe - Prymont - The Rocks,107026,Sydney - City,107,Sydney - Wollongong,1,New South Wales,8.0865
+10702604,Redfern,107026,Sydney - City,107,Sydney - Wollongong,1,New South Wales,0.7817
+10702701,Ashfield,107027,Sydney - Inner West,107,Sydney - Wollongong,1,New South Wales,8.2828
+10702702,Burwood,107027,Sydney - Inner West,107,Sydney - Wollongong,1,New South Wales,7.1281
+10702703,Canada Bay,107027,Sydney - Inner West,107,Sydney - Wollongong,1,New South Wales,19.9111
+10702704,Strathfield,107027,Sydney - Inner West,107,Sydney - Wollongong,1,New South Wales,13.578
+10702801,Lane Cove - Willoughby,107028,Sydney - Lower North,107,Sydney - Wollongong,1,New South Wales,32.9691
+10702802,Mosman - North Sydney,107028,Sydney - Lower North,107,Sydney - Wollongong,1,New South Wales,19.0721
+10702901,Wollondilly,107029,Wollondilly,107,Sydney - Wollongong,1,New South Wales,3390.884
+10703001,Wollongong,107030,Wollongong,107,Sydney - Wollongong,1,New South Wales,403.7784
+10703101,Waverley,107031,Woollahra - Waverley,107,Sydney - Wollongong,1,New South Wales,9.3507
+10703102,Woollahra,107031,Woollahra - Waverley,107,Sydney - Wollongong,1,New South Wales,12.2775
+19499494,No usual address (NSW),194994,No usual address (NSW),194,No usual address (NSW),1,New South Wales,0
+19799797,Migratory - Offshore - Shipping (NSW),197997,Migratory - Offshore - Shipping (NSW),197,Migratory - Offshore - Shipping (NSW),1,New South Wales,0
+20100101,Keilor,201001,Brimbank,201,Melbourne,2,Victoria,59.1766
+20100102,Sunshine,201001,Brimbank,201,Melbourne,2,Victoria,64.2225
+20100201,Cardinia,201002,Cardinia,201,Melbourne,2,Victoria,1283.2897
+20100301,Craigieburn - Sunbury,201003,Craigieburn - Sunbury,201,Melbourne,2,Victoria,459.4749
+20100401,Cranbourne,201004,Cranbourne - Narre Warren,201,Melbourne,2,Victoria,71.9441
+20100402,Hallam - Berwick - Pearcedale,201004,Cranbourne - Narre Warren,201,Melbourne,2,Victoria,337.4848
+20100501,Chelsea,201005,Frankston,201,Melbourne,2,Victoria,91.3677
+20100502,Frankston - East,201005,Frankston,201,Melbourne,2,Victoria,65.2759
+20100503,Frankston - West,201005,Frankston,201,Melbourne,2,Victoria,64.3221
+20100601,Greater Dandenong,201006,Greater Dandenong,201,Melbourne,2,Victoria,129.5469
+20100701,Wantrina - Rowville - Ferntree Gully,201007,Knox,201,Melbourne,2,Victoria,118.3019
+20100801,Maribyrnong,201008,Maribyrnong - Moonee Valley,201,Melbourne,2,Victoria,31.2254
+20100802,Moonee Valley,201008,Maribyrnong - Moonee Valley,201,Melbourne,2,Victoria,43.128
+20100901,Maroondah,201009,Maroondah,201,Melbourne,2,Victoria,61.4097
+20101001,Bayside,201010,Melbourne - East,201,Melbourne,2,Victoria,37.2111
+20101002,Boroondara,201010,Melbourne - East,201,Melbourne,2,Victoria,60.0157
+20101003,Glen Eira,201010,Melbourne - East,201,Melbourne,2,Victoria,64.342
+20101101,Heidelberg,201011,Melbourne - North-East,201,Melbourne,2,Victoria,32.6276
+20101102,Manningham,201011,Melbourne - North-East,201,Melbourne,2,Victoria,115.0276
+20101103,Nillumbik,201011,Melbourne - North-East,201,Melbourne,2,Victoria,432.2642
+20101104,Watsonia,201011,Melbourne - North-East,201,Melbourne,2,Victoria,29.9857
+20101201,Melbourne - Central,201012,Melbourne - Port Phillip,201,Melbourne,2,Victoria,37.4573
+20101202,Port Phillip,201012,Melbourne - Port Phillip,201,Melbourne,2,Victoria,20.6138
+20101203,Yarra,201012,Melbourne - Port Phillip,201,Melbourne,2,Victoria,19.5425
+20101301,Melton,201013,Melton,201,Melbourne,2,Victoria,527.5374
+20101401,Mount Waverley,201014,Monash,201,Melbourne,2,Victoria,32.2378
+20101402,Oakleigh,201014,Monash,201,Melbourne,2,Victoria,21.3378
+20101403,Wheelers Hill,201014,Monash,201,Melbourne,2,Victoria,27.9073
+20101501,Broadmeadows,201015,Moreland - Broadmeadows,201,Melbourne,2,Victoria,44.3756
+20101502,Brunswick,201015,Moreland - Broadmeadows,201,Melbourne,2,Victoria,10.6507
+20101503,Coburg,201015,Moreland - Broadmeadows,201,Melbourne,2,Victoria,18.2677
+20101504,Moreland - North,201015,Moreland - Broadmeadows,201,Melbourne,2,Victoria,22.0335
+20101601,Mornington - East,201016,Mornington Peninsula,201,Melbourne,2,Victoria,214.6344
+20101602,Mornington - South,201016,Mornington Peninsula,201,Melbourne,2,Victoria,423.42
+20101603,Mornington - West,201016,Mornington Peninsula,201,Melbourne,2,Victoria,86.1135
+20101701,Northcote,201017,Northcote - Preston - Whittlesea,201,Melbourne,2,Victoria,14.0275
+20101702,Preston,201017,Northcote - Preston - Whittlesea,201,Melbourne,2,Victoria,39.4436
+20101703,Whittlesea,201017,Northcote - Preston - Whittlesea,201,Melbourne,2,Victoria,489.6939
+20101801,Box Hill,201018,Whitehorse,201,Melbourne,2,Victoria,21.5878
+20101802,Nunawading - East,201018,Whitehorse,201,Melbourne,2,Victoria,21.5122
+20101803,Nunawading - West,201018,Whitehorse,201,Melbourne,2,Victoria,21.1756
+20101901,Altona,201019,Wyndham - Altona,201,Melbourne,2,Victoria,62.2158
+20101902,Tarneit - Hoppers Crossing,201019,Wyndham - Altona,201,Melbourne,2,Victoria,129.4769
+20101903,Werribee - Whyndam Vale,201019,Wyndham - Altona,201,Melbourne,2,Victoria,414.6426
+20102001,Yarra Ranges,201020,Yarra Ranges,201,Melbourne,2,Victoria,2461.579
+20200101,Ballarat,202001,Ballarat,202,Victoria exc. Melbourne,2,Victoria,1200.4105
+20200201,Baw Baw,202002,Baw Baw,202,Victoria exc. Melbourne,2,Victoria,3996.3354
+20200301,Ascot - White Hills,202003,Bendigo,202,Victoria exc. Melbourne,2,Victoria,67.7768
+20200302,Bendigo,202003,Bendigo,202,Victoria exc. Melbourne,2,Victoria,15.974
+20200303,Bendigo - Surrounds,202003,Bendigo,202,Victoria exc. Melbourne,2,Victoria,3050.303
+20200304,Eaglehawk,202003,Bendigo,202,Victoria exc. Melbourne,2,Victoria,33.0365
+20200305,East Bendigo,202003,Bendigo,202,Victoria exc. Melbourne,2,Victoria,30.3519
+20200306,Maiden Gully - Kangaroo Flats,202003,Bendigo,202,Victoria exc. Melbourne,2,Victoria,83.8904
+20200401,Campaspe - West,202004,Campaspe - Shepparton - Moira,202,Victoria exc. Melbourne,2,Victoria,3463.3197
+20200402,Echuca,202004,Campaspe - Shepparton - Moira,202,Victoria exc. Melbourne,2,Victoria,49.3978
+20200403,Kyabram,202004,Campaspe - Shepparton - Moira,202,Victoria exc. Melbourne,2,Victoria,996.3276
+20200404,Moira,202004,Campaspe - Shepparton - Moira,202,Victoria exc. Melbourne,2,Victoria,4046.3738
+20200405,Shepparton,202004,Campaspe - Shepparton - Moira,202,Victoria exc. Melbourne,2,Victoria,2378.6862
+20200501,Castlemaine - Kerang,202005,Castlemaine - Kerang,202,Victoria exc. Melbourne,2,Victoria,22169.5742
+20200601,Geelong - Queenscliff,202006,Geelong - Queenscliff,202,Victoria exc. Melbourne,2,Victoria,1256.6042
+20200701,Bairnsdale,202007,Gippsland,202,Victoria exc. Melbourne,2,Victoria,155.0115
+20200702,East Gippsland,202007,Gippsland,202,Victoria exc. Melbourne,2,Victoria,21556.7497
+20200703,Lake Tyers,202007,Gippsland,202,Victoria exc. Melbourne,2,Victoria,2.0886
+20200704,Wellington (Vic.),202007,Gippsland,202,Victoria exc. Melbourne,2,Victoria,10044.7738
+20200801,Moe - Yallourn,202008,Latrobe,202,Victoria exc. Melbourne,2,Victoria,343.0122
+20200802,Morwell,202008,Latrobe,202,Victoria exc. Melbourne,2,Victoria,85.4861
+20200803,Traralgon - Churchill,202008,Latrobe,202,Victoria exc. Melbourne,2,Victoria,946.1959
+20200901,Macedon Ranges,202009,Macedon Ranges - Moorabool,202,Victoria exc. Melbourne,2,Victoria,1760.4644
+20200902,Moorabool,202009,Macedon Ranges - Moorabool,202,Victoria exc. Melbourne,2,Victoria,2085.4243
+20201001,Mildura,202010,Mildura,202,Victoria exc. Melbourne,2,Victoria,22082.4836
+20201101,Bass Coast,202011,South Gippsland - Bass Coast,202,Victoria exc. Melbourne,2,Victoria,1034.7548
+20201102,South Gippsland,202011,South Gippsland - Bass Coast,202,Victoria exc. Melbourne,2,Victoria,3389.3437
+20201201,Corangamite - Golden Plains,202012,South-West Central Victoria,202,Victoria exc. Melbourne,2,Victoria,12135.4585
+20201202,Framlingham,202012,South-West Central Victoria,202,Victoria exc. Melbourne,2,Victoria,3.0497
+20201203,Moyne - Ararat - Pyrenees,202012,South-West Central Victoria,202,Victoria exc. Melbourne,2,Victoria,13072.1721
+20201301,Glenelg North - Heywood,202013,Southern Grampians - Glenelg,202,Victoria exc. Melbourne,2,Victoria,6121.2107
+20201302,Portland,202013,Southern Grampians - Glenelg,202,Victoria exc. Melbourne,2,Victoria,63.985
+20201303,Southern Grampians,202013,Southern Grampians - Glenelg,202,Victoria exc. Melbourne,2,Victoria,6760.9807
+20201401,Swan Hill,202014,Swan Hill,202,Victoria exc. Melbourne,2,Victoria,15.5433
+20201402,Swan Hill  - Robinvale,202014,Swan Hill,202,Victoria exc. Melbourne,2,Victoria,1119.3793
+20201403,Swan Hill  - Surrounds,202014,Swan Hill,202,Victoria exc. Melbourne,2,Victoria,4932.614
+20201501,Benalla,202015,Upper Goulburn Valley,202,Victoria exc. Melbourne,2,Victoria,24.2709
+20201502,Strathbogie - Mansfield - Murimbindi,202015,Upper Goulburn Valley,202,Victoria exc. Melbourne,2,Victoria,13589.2456
+20201601,Wallan - Seymour,202016,Wallan - Seymour,202,Victoria exc. Melbourne,2,Victoria,2737.4079
+20201701,Warrnambool,202017,Warrnambool,202,Victoria exc. Melbourne,2,Victoria,182.6157
+20201801,Wimmera,202018,Wimmera,202,Victoria exc. Melbourne,2,Victoria,33954.829
+20201901,Alpine - Towong - Indigo,202019,Wodonga,202,Victoria exc. Melbourne,2,Victoria,13547.7902
+20201902,Wangaratta,202019,Wodonga,202,Victoria exc. Melbourne,2,Victoria,3645.1095
+20201903,Wodonga,202019,Wodonga,202,Victoria exc. Melbourne,2,Victoria,432.6894
+29499494,No usual address (Vic.),294994,No usual address (Vic.),294,No usual address (Vic.),2,Victoria,0
+29799797,Migratory - Offshore - Shipping (Vic.),297997,Migratory - Offshore - Shipping (Vic.),297,Migratory - Offshore - Shipping (Vic.),2,Victoria,0
+30100101,Beaudesert - Boonah,301001,Beaudesert - Boonah,301,Brisbane,3,Queensland,4251.6225
+30100201,Brisbane City - Inner East,301002,Brisbane City,301,Brisbane,3,Queensland,46.6817
+30100202,Brisbane City - Inner North,301002,Brisbane City,301,Brisbane,3,Queensland,18.7263
+30100203,Brisbane City - Inner North-West,301002,Brisbane City,301,Brisbane,3,Queensland,78.6167
+30100204,Brisbane City - Inner South,301002,Brisbane City,301,Brisbane,3,Queensland,9.8169
+30100205,Brisbane City - Inner South-West,301002,Brisbane City,301,Brisbane,3,Queensland,35.9944
+30100206,Brisbane City - Outer East,301002,Brisbane City,301,Brisbane,3,Queensland,323.2599
+30100207,Brisbane City - Outer North,301002,Brisbane City,301,Brisbane,3,Queensland,244.279
+30100208,Brisbane City - Outer South,301002,Brisbane City,301,Brisbane,3,Queensland,171.406
+30100209,Brisbane City - Outer West,301002,Brisbane City,301,Brisbane,3,Queensland,375.852
+30100210,Inala - Richlands,301002,Brisbane City,301,Brisbane,3,Queensland,10.8744
+30100211,Wacol - Doolandella - Forest Lake,301002,Brisbane City,301,Brisbane,3,Queensland,34.0944
+30100301,Caboolture,301003,Caboolture,301,Brisbane,3,Queensland,1267.6019
+30100401,Caloundra,301004,Caloundra,301,Brisbane,3,Queensland,1039.601
+30100501,Esk - Kilcoy,301005,Esk - Kilcoy,301,Brisbane,3,Queensland,5370.6541
+30100601,Gatton,301006,Gatton - Laidley,301,Brisbane,3,Queensland,1576.7592
+30100602,Laidley,301006,Gatton - Laidley,301,Brisbane,3,Queensland,695.0257
+30100701,Gold Coast,301007,Gold Coast,301,Brisbane,3,Queensland,1333.7031
+30100801,Ipswich,301008,Ipswich,301,Brisbane,3,Queensland,1078.1051
+30100901,Browns Plains,301009,Logan,301,Brisbane,3,Queensland,22.9421
+30100902,Kingston,301009,Logan,301,Brisbane,3,Queensland,8.3457
+30100903,Logan - Surrounds,301009,Logan,301,Brisbane,3,Queensland,888.0794
+30100904,Loganlea,301009,Logan,301,Brisbane,3,Queensland,11.3071
+30100905,Marsden,301009,Logan,301,Brisbane,3,Queensland,17.6278
+30100906,Woodridge,301009,Logan,301,Brisbane,3,Queensland,9.8301
+30101001,Maroochy,301010,Maroochy,301,Brisbane,3,Queensland,1177.5281
+30101101,Noosa,301011,Noosa,301,Brisbane,3,Queensland,868.7823
+30101201,Pine Rivers - East,301012,Pine Rivers,301,Brisbane,3,Queensland,104.854
+30101202,Pine Rivers - West,301012,Pine Rivers,301,Brisbane,3,Queensland,668.5409
+30101301,Redcliffe,301013,Redcliffe,301,Brisbane,3,Queensland,38.2744
+30101401,Redland,301014,Redland,301,Brisbane,3,Queensland,537.167
+30200101,Atherton,302001,Atherton,302,Cairns - Atherton,3,Queensland,622.4881
+30200201,Barron,302002,Cairns,302,Cairns - Atherton,3,Queensland,83.8097
+30200202,Cairns - City,302002,Cairns,302,Cairns - Atherton,3,Queensland,6.1989
+30200203,Cairns - North,302002,Cairns,302,Cairns - Atherton,3,Queensland,53.5267
+30200204,Cairns - West,302002,Cairns,302,Cairns - Atherton,3,Queensland,14.3667
+30200205,Cairns - White Rock - Mt Sheridan,302002,Cairns,302,Cairns - Atherton,3,Queensland,11.0107
+30200206,Edmonton,302002,Cairns,302,Cairns - Atherton,3,Queensland,17.0289
+30200207,Gordonvale,302002,Cairns,302,Cairns - Atherton,3,Queensland,14.4744
+30200208,Manunda - Portsmith,302002,Cairns,302,Cairns - Atherton,3,Queensland,18.6067
+30200209,Mount Whitfield,302002,Cairns,302,Cairns - Atherton,3,Queensland,29.6362
+30200210,Trinity,302002,Cairns,302,Cairns - Atherton,3,Queensland,79.3213
+30200301,Mossman,302003,Cairns - Far North Coast,302,Cairns - Atherton,3,Queensland,2.5783
+30200302,Mossman - Surrounds,302003,Cairns - Far North Coast,302,Cairns - Atherton,3,Queensland,616.2729
+30200303,Mossman Gorge,302003,Cairns - Far North Coast,302,Cairns - Atherton,3,Queensland,0.3742
+30200401,Cairns - Southern Hinterlands,302004,Cairns - Southern Hinterlands,302,Cairns - Atherton,3,Queensland,1750.7014
+30200501,Eacham,302005,Eacham,302,Cairns - Atherton,3,Queensland,867.6794
+30200601,Herberton,302006,Herberton - Ravenshoe,302,Cairns - Atherton,3,Queensland,3.7852
+30200602,Herberton Tablelands,302006,Herberton - Ravenshoe,302,Cairns - Atherton,3,Queensland,9556.1486
+30200603,Mount Garnet,302006,Herberton - Ravenshoe,302,Cairns - Atherton,3,Queensland,2.7675
+30200604,Ravenshoe,302006,Herberton - Ravenshoe,302,Cairns - Atherton,3,Queensland,3.5227
+30200701,Innisfail,302007,Innisfail - Johnstone,302,Cairns - Atherton,3,Queensland,27.82
+30200702,Johnstone,302007,Innisfail - Johnstone,302,Cairns - Atherton,3,Queensland,1468.1066
+30200801,Etheridge Tablelands,302008,Kuranda - Croydon,302,Cairns - Atherton,3,Queensland,122085.9554
+30200803,Kowrowa - Mantaka - Mona Mona,302008,Kuranda - Croydon,302,Cairns - Atherton,3,Queensland,65.2353
+30200901,Mareeba,302009,Mareeba,302,Cairns - Atherton,3,Queensland,20.5465
+30201001,Cape Tribulation - China Camp - Zig Zag,302010,Wujal Wujal and Outstations,302,Cairns - Atherton,3,Queensland,1801.8659
+30201002,Wujal Wujal,302010,Wujal Wujal and Outstations,302,Cairns - Atherton,3,Queensland,1.1619
+30201101,Yarrabah,302011,Yarrabah,302,Cairns - Atherton,3,Queensland,158.8381
+30300101,Aurukun,303001,Aurukun,303,Cape York,3,Queensland,7423.989
+30300201,Cape York Wilderness,303002,Cape York,303,Cape York,3,Queensland,107592.0008
+30300202,Coen,303002,Cape York,303,Cape York,3,Queensland,2.1451
+30300203,Laura,303002,Cape York,303,Cape York,3,Queensland,11.2052
+30300301,Cooktown,303003,Cooktown,303,Cape York,3,Queensland,24.4864
+30300401,Hope Vale,303004,Hope Vale,303,Cape York,3,Queensland,1111.7099
+30300501,Kowanyama,303005,Kowanyama,303,Cape York,3,Queensland,2555.3325
+30300601,Lockhart River,303006,Lockhart River,303,Cape York,3,Queensland,4200.8115
+30300701,Mapoon,303007,Mapoon - Napranum - Weipa,303,Cape York,3,Queensland,15.1372
+30300702,Napranum,303007,Mapoon - Napranum - Weipa,303,Cape York,3,Queensland,2.0387
+30300703,Weipa,303007,Mapoon - Napranum - Weipa,303,Cape York,3,Queensland,16.1611
+30300801,Bamaga and Surrounds,303008,Northern Peninsula Area,303,Cape York,3,Queensland,500.6632
+30300802,Injinoo,303008,Northern Peninsula Area,303,Cape York,3,Queensland,894.0024
+30300803,New Mapoon,303008,Northern Peninsula Area,303,Cape York,3,Queensland,98.6618
+30300804,Seisia,303008,Northern Peninsula Area,303,Cape York,3,Queensland,1.955
+30300805,Umagico,303008,Northern Peninsula Area,303,Cape York,3,Queensland,51.42
+30300901,Pormpuraaw,303009,Pormpuraaw,303,Cape York,3,Queensland,4395.3657
+30400101,Boulia,304001,Boulia - Diamantina - Winton,304,Mount Isa,3,Queensland,60905.7352
+30400102,Diamantina,304001,Boulia - Diamantina - Winton,304,Mount Isa,3,Queensland,94730.4545
+30400103,Winton,304001,Boulia - Diamantina - Winton,304,Mount Isa,3,Queensland,53813.4826
+30400201,Carpentaria exc. Doomadgee,304002,Carpentaria - Burke - Mornington,304,Mount Isa,3,Queensland,113180.9165
+30400202,Doomadgee,304002,Carpentaria - Burke - Mornington,304,Mount Isa,3,Queensland,4.9976
+30400203,Mornington,304002,Carpentaria - Burke - Mornington,304,Mount Isa,3,Queensland,1247.6932
+30400204,Normanton,304002,Carpentaria - Burke - Mornington,304,Mount Isa,3,Queensland,12.161
+30400301,Cloncurry - McKinlay,304003,Cloncurry - McKinlay,304,Mount Isa,3,Queensland,88708.0585
+30400401,Camooweal,304004,Mount Isa,304,Mount Isa,3,Queensland,2.6885
+30400402,Mount Isa exc. Camooweal,304004,Mount Isa,304,Mount Isa,3,Queensland,36144.9753
+30500101,Banana - North,305001,Banana,305,Rockhampton,3,Queensland,14728.9773
+30500102,Banana - South,305001,Banana,305,Rockhampton,3,Queensland,13806.4238
+30500103,Biloela,305001,Banana,305,Rockhampton,3,Queensland,14.7854
+30500201,Barcaldine,305002,Barcaldine - Blackall - Longreach,305,Rockhampton,3,Queensland,53382.6558
+30500202,Blackall - Tambo,305002,Barcaldine - Blackall - Longreach,305,Rockhampton,3,Queensland,30537.2479
+30500203,Longreach,305002,Barcaldine - Blackall - Longreach,305,Rockhampton,3,Queensland,40572.2443
+30500301,Bundaberg - City,305003,Bundaberg,305,Rockhampton,3,Queensland,97.0416
+30500302,Bundaberg - Surrounds,305003,Bundaberg,305,Rockhampton,3,Queensland,6333.9614
+30500401,Blackwater,305004,Central Capricorn,305,Rockhampton,3,Queensland,11.4208
+30500402,Central Highlands,305004,Central Capricorn,305,Rockhampton,3,Queensland,59955.4757
+30500403,Emerald,305004,Central Capricorn,305,Rockhampton,3,Queensland,38.9821
+30500404,Woorabinda,305004,Central Capricorn,305,Rockhampton,3,Queensland,219.5151
+30500501,Fraser Coast,305005,Fraser Coast,305,Rockhampton,3,Queensland,6912.4574
+30500502,Hervey Bay,305005,Fraser Coast,305,Rockhampton,3,Queensland,57.6051
+30500503,Maryborough,305005,Fraser Coast,305,Rockhampton,3,Queensland,34.446
+30500601,Gladstone - City,305006,Gladstone,305,Rockhampton,3,Queensland,123.124
+30500602,Gladstone - South Coast,305006,Gladstone,305,Rockhampton,3,Queensland,3772.801
+30500603,Gladstone - Surrounds,305006,Gladstone,305,Rockhampton,3,Queensland,6588.3612
+30500701,Dysart,305007,Nebo - Clermont,305,Rockhampton,3,Queensland,5.0853
+30500702,Moranbah,305007,Nebo - Clermont,305,Rockhampton,3,Queensland,12.5367
+30500703,Nebo - Clermont,305007,Nebo - Clermont,305,Rockhampton,3,Queensland,58690.2954
+30500801,Eidsvold,305008,North Burnett,305,Rockhampton,3,Queensland,2.8711
+30500802,Gayndah,305008,North Burnett,305,Rockhampton,3,Queensland,7.9564
+30500803,North Burnett - Rural,305008,North Burnett,305,Rockhampton,3,Queensland,19659.0214
+30500901,Gracemere,305009,Rockhampton - Yeppoon,305,Rockhampton,3,Queensland,40.4289
+30500902,Mount Morgan,305009,Rockhampton - Yeppoon,305,Rockhampton,3,Queensland,490.6655
+30500903,Rockhampton,305009,Rockhampton - Yeppoon,305,Rockhampton,3,Queensland,175.9817
+30500904,Rockhampton - North,305009,Rockhampton - Yeppoon,305,Rockhampton,3,Queensland,11732.2637
+30500905,Rockhampton - South,305009,Rockhampton - Yeppoon,305,Rockhampton,3,Queensland,5863.1906
+30500906,Yeppoon,305009,Rockhampton - Yeppoon,305,Rockhampton,3,Queensland,25.6046
+30600101,Balonne exc. St George and Dirranbandi,306001,Balonne,306,Toowoomba - Roma,3,Queensland,31079.0044
+30600102,Dirranbandi,306001,Balonne,306,Toowoomba - Roma,3,Queensland,8.9925
+30600103,St George,306001,Balonne,306,Toowoomba - Roma,3,Queensland,15.7102
+30600201,Bulloo - Quilpie - Barcoo,306002,Bulloo - Quilpie - Barcoo,306,Toowoomba - Roma,3,Queensland,202968.498
+30600301,Cherbourg,306003,Cherbourg,306,Toowoomba - Roma,3,Queensland,31.6002
+30600401,Cooloola,306004,Cooloola - Gympie,306,Toowoomba - Roma,3,Queensland,3658.108
+30600402,Gympie,306004,Cooloola - Gympie,306,Toowoomba - Roma,3,Queensland,56.0829
+30600501,Dalby,306005,Dalby,306,Toowoomba - Roma,3,Queensland,28.0063
+30600601,Goondiwindi  - Surrounds,306006,Goondiwindi - Stanthorpe,306,Toowoomba - Roma,3,Queensland,18340.3446
+30600602,Goondiwindi,306006,Goondiwindi - Stanthorpe,306,Toowoomba - Roma,3,Queensland,5.565
+30600603,Stanthorpe,306006,Goondiwindi - Stanthorpe,306,Toowoomba - Roma,3,Queensland,2692.3151
+30600701,Jondaryan,306007,Jondaryan - Oakey,306,Toowoomba - Roma,3,Queensland,1834.6857
+30600702,Oakey,306007,Jondaryan - Oakey,306,Toowoomba - Roma,3,Queensland,9.8105
+30600801,Maranoa exc. Roma and Mitchell,306008,Maranoa - Roma - Mitchell,306,Toowoomba - Roma,3,Queensland,58620.2996
+30600802,Mitchell,306008,Maranoa - Roma - Mitchell,306,Toowoomba - Roma,3,Queensland,6.0628
+30600803,Roma,306008,Maranoa - Roma - Mitchell,306,Toowoomba - Roma,3,Queensland,78.0284
+30600901,Murgon,306009,Murgon,306,Toowoomba - Roma,3,Queensland,579.8277
+30601001,Murweh,306010,Murweh,306,Toowoomba - Roma,3,Queensland,40699.7585
+30601101,Nanango - Kilkivan,306011,Nanango - Kilkivan,306,Toowoomba - Roma,3,Queensland,4909.7728
+30601201,Paroo,306012,Paroo,306,Toowoomba - Roma,3,Queensland,47612.8774
+30601301,Kingaroy,306013,South Burnett,306,Toowoomba - Roma,3,Queensland,2440.9205
+30601302,Wondai,306013,South Burnett,306,Toowoomba - Roma,3,Queensland,3720.9076
+30601401,Warwick,306014,Southern Downs,306,Toowoomba - Roma,3,Queensland,37.1953
+30601402,Warwick - Surrounds,306014,Southern Downs,306,Toowoomba - Roma,3,Queensland,4440.5139
+30601501,Toowoomba - Central,306015,Toowoomba - Central,306,Toowoomba - Roma,3,Queensland,142.3224
+30601601,Crows Nest,306016,Toowoomba - North,306,Toowoomba - Roma,3,Queensland,1596.5967
+30601602,Rosalie,306016,Toowoomba - North,306,Toowoomba - Roma,3,Queensland,2427.9652
+30601701,Greenmount - Clifton - Cambooya,306017,Toowoomba - South,306,Toowoomba - Roma,3,Queensland,1491.4856
+30601702,Millmerran,306017,Toowoomba - South,306,Toowoomba - Roma,3,Queensland,4517.0063
+30601703,Pittsworth,306017,Toowoomba - South,306,Toowoomba - Roma,3,Queensland,925.6424
+30601801,Chinchilla,306018,Western Downs,306,Toowoomba - Roma,3,Queensland,8048.7229
+30601802,Murilla - Wandoan,306018,Western Downs,306,Toowoomba - Roma,3,Queensland,11841.615
+30601803,Tara (Qld),306018,Western Downs,306,Toowoomba - Roma,3,Queensland,13208.4392
+30601804,Wambo,306018,Western Downs,306,Toowoomba - Roma,3,Queensland,5672.3262
+30700101,Hammond Island,307001,Kaiwalagal - Inner Islands,307,Torres Strait,3,Queensland,15.5995
+30700102,Horn Island,307001,Kaiwalagal - Inner Islands,307,Torres Strait,3,Queensland,53.1849
+30700103,Muralag and Inner Islands,307001,Kaiwalagal - Inner Islands,307,Torres Strait,3,Queensland,258.4265
+30700104,Port Kennedy (Thursday Island),307001,Kaiwalagal - Inner Islands,307,Torres Strait,3,Queensland,1.8214
+30700105,TRAWQ (Thursday Island),307001,Kaiwalagal - Inner Islands,307,Torres Strait,3,Queensland,1.8877
+30700201,Boigu Island,307002,Kalakawal - Top Western Islands,307,Torres Strait,3,Queensland,71.4085
+30700202,Dauan Island,307002,Kalakawal - Top Western Islands,307,Torres Strait,3,Queensland,32.2882
+30700203,Saibai Island,307002,Kalakawal - Top Western Islands,307,Torres Strait,3,Queensland,104.1132
+30700301,Badu Island,307003,Kalalagal - Western Islands,307,Torres Strait,3,Queensland,102.5447
+30700302,Kubin (Moa Island),307003,Kalalagal - Western Islands,307,Torres Strait,3,Queensland,169.6921
+30700303,Mabuiag Island,307003,Kalalagal - Western Islands,307,Torres Strait,3,Queensland,6.2719
+30700304,St Pauls (Moa Island),307003,Kalalagal - Western Islands,307,Torres Strait,3,Queensland,17.9532
+30700401,Iama (Yam) Island,307004,Kulkalgal - Central Islands,307,Torres Strait,3,Queensland,1.8608
+30700402,Poruma (Coconut) Island,307004,Kulkalgal - Central Islands,307,Torres Strait,3,Queensland,28.2422
+30700403,Warraber Island,307004,Kulkalgal - Central Islands,307,Torres Strait,3,Queensland,1.0079
+30700404,Yorke Island,307004,Kulkalgal - Central Islands,307,Torres Strait,3,Queensland,1.5737
+30700501,Erub (Darnley) Island,307005,Meriam - Eastern Islands,307,Torres Strait,3,Queensland,5.6417
+30700502,Mer (Murray) Island,307005,Meriam - Eastern Islands,307,Torres Strait,3,Queensland,4.8647
+30700503,Ugar (Stephens) Island,307005,Meriam - Eastern Islands,307,Torres Strait,3,Queensland,0.7444
+30800101,Bowen (Qld),308001,Bowen (Qld),308,Townsville - Mackay,3,Queensland,21144.8646
+30800201,Ayr,308002,Burdekin - Ayr,308,Townsville - Mackay,3,Queensland,21.1957
+30800202,Burdekin,308002,Burdekin - Ayr,308,Townsville - Mackay,3,Queensland,4927.2636
+30800301,Charters Towers,308003,Charters Towers,308,Townsville - Mackay,3,Queensland,41.8593
+30800401,Flinders - Richmond - Dalrymple,308004,Flinders - Richmond - Dalrymple,308,Townsville - Mackay,3,Queensland,136120.9902
+30800501,Hinchinbrook,308005,Ingham - Hinchinbrook,308,Townsville - Mackay,3,Queensland,2787.0555
+30800502,Ingham,308005,Ingham - Hinchinbrook,308,Townsville - Mackay,3,Queensland,20.1334
+30800601,Mackay,308006,Mackay,308,Townsville - Mackay,3,Queensland,238.8742
+30800701,Mackay - Surrounds,308007,Mackay - Surrounds,308,Townsville - Mackay,3,Queensland,2610.6358
+30800801,Mirani,308008,Mirani,308,Townsville - Mackay,3,Queensland,3324.1404
+30800901,Palm Island,308009,Palm Island,308,Townsville - Mackay,3,Queensland,71.9928
+30801001,Proserpine - Whitsunday,308010,Proserpine - Whitsunday,308,Townsville - Mackay,3,Queensland,2674.0276
+30801101,Sarina,308011,Sarina,308,Townsville - Mackay,3,Queensland,1439.646
+30801201,Thuringowa,308012,Thuringowa,308,Townsville - Mackay,3,Queensland,242.2022
+30801301,Townsville,308013,Townsville,308,Townsville - Mackay,3,Queensland,166.1411
+30801401,Townsville - Northern Beaches,308014,Townsville - Surrounds,308,Townsville - Mackay,3,Queensland,1008.6849
+30801402,Townsville - Southern Rangelands,308014,Townsville - Surrounds,308,Townsville - Mackay,3,Queensland,2409.2642
+30801501,Cardwell,308015,Tully - Cardwell - Jumbun,308,Townsville - Mackay,3,Queensland,3039.1662
+30801502,Jumbun,308015,Tully - Cardwell - Jumbun,308,Townsville - Mackay,3,Queensland,9.3096
+30801503,Tully,308015,Tully - Cardwell - Jumbun,308,Townsville - Mackay,3,Queensland,7.042
+39499494,No usual address (Qld),394994,No usual address (Qld),394,No usual address (Qld),3,Queensland,0
+39799797,Migratory - Offshore - Shipping (Qld),397997,Migratory - Offshore - Shipping (Qld),397,Migratory - Offshore - Shipping (Qld),3,Queensland,0
+40100101,Adelaide - Central,401001,Adelaide - Prospect - Walkerville,401,Adelaide,4,South Australia,15.5733
+40100102,Prospect - Walkerville,401001,Adelaide - Prospect - Walkerville,401,Adelaide,4,South Australia,11.3215
+40100201,Adelaide Hills,401002,Adelaide Hills - Mount Barker,401,Adelaide,4,South Australia,766.3541
+40100202,Mount Barker,401002,Adelaide Hills - Mount Barker,401,Adelaide,4,South Australia,620.6836
+40100301,Barossa,401003,Barossa,401,Adelaide,4,South Australia,3101.755
+40100401,Barmera,401004,Berri - Barmera,401,Adelaide,4,South Australia,649.4839
+40100402,Berri,401004,Berri - Barmera,401,Adelaide,4,South Australia,142.6018
+40100501,Campbelltown,401005,Campbelltown - Norwood,401,Adelaide,4,South Australia,26.4471
+40100502,Norwood - Payneham - St Peters,401005,Campbelltown - Norwood,401,Adelaide,4,South Australia,15.1036
+40100601,Charles Sturt - Coast,401006,Charles Sturt,401,Adelaide,4,South Australia,16.8901
+40100602,Charles Sturt - Inner East,401006,Charles Sturt,401,Adelaide,4,South Australia,11.7458
+40100603,Charles Sturt - Inner West,401006,Charles Sturt,401,Adelaide,4,South Australia,12.0357
+40100604,Charles Sturt - North-East,401006,Charles Sturt,401,Adelaide,4,South Australia,13.7797
+40100701,Fleurieu - Kangaroo Island,401007,Fleurieu - Kangaroo Island,401,Adelaide,4,South Australia,7363.5796
+40100801,Gawler,401008,Gawler,401,Adelaide,4,South Australia,42.2619
+40100901,Holdfast Bay,401009,Holdfast Bay - West Torrens,401,Adelaide,4,South Australia,13.8786
+40100902,West Torrens,401009,Holdfast Bay - West Torrens,401,Adelaide,4,South Australia,37.1903
+40101001,Loxton - Waikerie,401010,Loxton - Waikerie - Mid Murray,401,Adelaide,4,South Australia,7514.4701
+40101002,Mid Murray,401010,Loxton - Waikerie - Mid Murray,401,Adelaide,4,South Australia,6440.2882
+40101101,Marion - Central,401011,Marion,401,Adelaide,4,South Australia,23.2228
+40101102,Marion - North,401011,Marion,401,Adelaide,4,South Australia,11.738
+40101103,Marion - South,401011,Marion,401,Adelaide,4,South Australia,20.576
+40101201,Murray Bridge,401012,Murray Bridge,401,Adelaide,4,South Australia,1925.7329
+40101301,Meningie,401013,Murray Mallee,401,Adelaide,4,South Australia,5.7809
+40101302,Murray Mallee,401013,Murray Mallee,401,Adelaide,4,South Australia,19185.2292
+40101303,Raukkan,401013,Murray Mallee,401,Adelaide,4,South Australia,2.6285
+40101401,Onkaparinga - Central North,401014,Onkaparinga,401,Adelaide,4,South Australia,98.2779
+40101402,Onkaparinga - North Coast,401014,Onkaparinga,401,Adelaide,4,South Australia,25.6291
+40101403,Onkaparinga - South,401014,Onkaparinga,401,Adelaide,4,South Australia,394.288
+40101501,Playford - Central West,401015,Playford,401,Adelaide,4,South Australia,8.919
+40101502,Playford - East,401015,Playford,401,Adelaide,4,South Australia,146.4284
+40101503,Playford - Elizabeth,401015,Playford,401,Adelaide,4,South Australia,20.5199
+40101504,Playford - West,401015,Playford,401,Adelaide,4,South Australia,170.8598
+40101601,Port Adelaide - Enfield - Coast,401016,Port Adelaide - Enfield,401,Adelaide,4,South Australia,21.5674
+40101602,Port Adelaide - Enfield - East,401016,Port Adelaide - Enfield,401,Adelaide,4,South Australia,17.6895
+40101603,Port Adelaide - Enfield - Inner,401016,Port Adelaide - Enfield,401,Adelaide,4,South Australia,15.1765
+40101604,Port Adelaide - Enfield - Park,401016,Port Adelaide - Enfield,401,Adelaide,4,South Australia,24.4079
+40101605,Port Adelaide - Enfield - Port,401016,Port Adelaide - Enfield,401,Adelaide,4,South Australia,21.7973
+40101701,Renmark Paringa,401017,Renmark Paringa,401,Adelaide,4,South Australia,915.8655
+40101801,Salisbury - Central,401018,Salisbury,401,Adelaide,4,South Australia,21.0515
+40101802,Salisbury - North-East,401018,Salisbury,401,Adelaide,4,South Australia,16.5101
+40101803,Salisbury - South-East,401018,Salisbury,401,Adelaide,4,South Australia,20.6241
+40101804,Salisbury - West,401018,Salisbury,401,Adelaide,4,South Australia,101.0497
+40101901,Limestone Coast,401019,South-East,401,Adelaide,4,South Australia,21305.5484
+40101902,Mount Gambier,401019,South-East,401,Adelaide,4,South Australia,31.5298
+40102001,Tea Tree Gully,401020,Tea Tree Gully,401,Adelaide,4,South Australia,94.2992
+40102101,Burnside,401021,Unley - Burnside - Mitcham,401,Adelaide,4,South Australia,27.5183
+40102102,Mitcham,401021,Unley - Burnside - Mitcham,401,Adelaide,4,South Australia,75.5468
+40102103,Unley,401021,Unley - Burnside - Mitcham,401,Adelaide,4,South Australia,14.2703
+40102201,Wakefield - Clare and Gilbert Valleys,401022,Wakefield - Clare and Gilbert Valleys,401,Adelaide,4,South Australia,5327.9236
+40102301,Copper Coast - Barunga West,401023,Yorke Peninsula,401,Adelaide,4,South Australia,2465.4544
+40102302,Point Pearce,401023,Yorke Peninsula,401,Adelaide,4,South Australia,535.6349
+40102303,Yorke Peninsula,401023,Yorke Peninsula,401,Adelaide,4,South Australia,5392.5557
+40200101,Amata - Tjurma Homelands,402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,5086.0224
+40200102,Anilalya Homelands,402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,6878.0521
+40200103,Indulkana and Indulkana Homelands,402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,18576.6969
+40200104,Kalka and Homelands,402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,8719.4029
+40200105,Kaltjiti (Fregon) and Irintata Homelands,402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,4618.8108
+40200106,Kanpi - Nyapari - Angatja,402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,2711.2209
+40200107,Mimili and Mimili Homelands,402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,6302.7635
+40200108,Pipalyatjara,402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,10.1398
+40200109,Pukatja (Ernabella),402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,8.4778
+40200110,Watarru and Outstations,402001,Anangu Pitjantjatjara,402,Port Augusta,4,South Australia,49452.4982
+40200201,Coober Pedy,402002,Coober Pedy - Umoona,402,Port Augusta,4,South Australia,75.4777
+40200202,Umoona,402002,Coober Pedy - Umoona,402,Port Augusta,4,South Australia,2.2018
+40200301,Dunjiba (Oodnadatta),402003,Eyre,402,Port Augusta,4,South Australia,9.0418
+40200302,Iga Warta Homeland,402003,Eyre,402,Port Augusta,4,South Australia,92.3241
+40200303,Lake Eyre - Lake Torrens,402003,Eyre,402,Port Augusta,4,South Australia,514476.3603
+40200304,Leigh Creek - Copley,402003,Eyre,402,Port Augusta,4,South Australia,13.3507
+40200305,Roxby Downs,402003,Eyre,402,Port Augusta,4,South Australia,288.3608
+40200401,Flinders Ranges,402004,Flinders,402,Port Augusta,4,South Australia,25207.1945
+40200402,Quorn,402004,Flinders,402,Port Augusta,4,South Australia,20.9209
+40200501,Davenport,402005,Port Augusta,402,Port Augusta,4,South Australia,0.9912
+40200502,Port Augusta - Central,402005,Port Augusta,402,Port Augusta,4,South Australia,21.6568
+40200503,Port Augusta - Surrounds,402005,Port Augusta,402,Port Augusta,4,South Australia,1163.8109
+40200504,Port Augusta - West,402005,Port Augusta,402,Port Augusta,4,South Australia,4.5383
+40200505,Stirling North,402005,Port Augusta,402,Port Augusta,4,South Australia,4.5864
+40200601,Whyalla,402006,Whyalla,402,Port Augusta,4,South Australia,24877.4727
+40300101,Ceduna,403001,Ceduna,403,Port Lincoln - Ceduna,4,South Australia,13.4188
+40300102,Koonibba,403001,Ceduna,403,Port Lincoln - Ceduna,4,South Australia,18.6741
+40300103,Tjutjunaku Worka Tjuta - Inner Homelands,403001,Ceduna,403,Port Lincoln - Ceduna,4,South Australia,399.9187
+40300104,Tjutjunaku Worka Tjuta - Outer Homelands,403001,Ceduna,403,Port Lincoln - Ceduna,4,South Australia,4731.8683
+40300201,Eyre Peninsula,403002,Ceduna - West Coast,403,Port Lincoln - Ceduna,4,South Australia,36460.9308
+40300202,Maralinga Tjarutja,403002,Ceduna - West Coast,403,Port Lincoln - Ceduna,4,South Australia,168955.7763
+40300203,South-West Coast,403002,Ceduna - West Coast,403,Port Lincoln - Ceduna,4,South Australia,19710.6869
+40300204,Yalata,403002,Ceduna - West Coast,403,Port Lincoln - Ceduna,4,South Australia,19.6269
+40300301,Port Lincoln,403003,Port Lincoln,403,Port Lincoln - Ceduna,4,South Australia,40.3378
+49499494,No usual address (SA),494994,No usual address (SA),494,No usual address (SA),4,South Australia,0
+49799797,Migratory - Offshore - Shipping (SA),497997,Migratory - Offshore - Shipping (SA),497,Migratory - Offshore - Shipping (SA),4,South Australia,0
+50100101,Broome - Central,501001,Broome,501,Broome,5,Western Australia,4.2219
+50100102,Broome - North,501001,Broome,501,Broome,5,Western Australia,235.559
+50100103,Broome Town Camps,501001,Broome,501,Broome,5,Western Australia,2.2937
+50100104,Minyirr - Cable Beach,501001,Broome,501,Broome,5,Western Australia,18.6109
+50100201,Bardi (One Arm Point),501002,Broome - Surrounds,501,Broome,5,Western Australia,6.0338
+50100202,Beagle Bay,501002,Broome - Surrounds,501,Broome,5,Western Australia,11.4045
+50100203,Bidyadanga,501002,Broome - Surrounds,501,Broome,5,Western Australia,21.5363
+50100206,Broome - Surrounds (inc. Djarindjin - Lombadina),501002,Broome - Surrounds,501,Broome,5,Western Australia,55093.8879
+50200101,Carnarvon Town exc. Mungullah,502001,Carnarvon - Mungullah,502,Geraldton,5,Western Australia,77.9814
+50200102,Mungullah,502001,Carnarvon - Mungullah,502,Geraldton,5,Western Australia,0.1886
+50200201,Carnegie South exc. Mount Magnet,502002,Carnegie South - Mount Magnet,502,Geraldton,5,Western Australia,119183.043
+50200202,Mount Magnet,502002,Carnegie South - Mount Magnet,502,Geraldton,5,Western Australia,13858.1182
+50200301,Greenough - Chapman Valley,502003,Central West Coast,502,Geraldton,5,Western Australia,5490.2494
+50200302,Mullewa,502003,Central West Coast,502,Geraldton,5,Western Australia,8110.5091
+50200303,Northampton,502003,Central West Coast,502,Geraldton,5,Western Australia,12543.7142
+50200401,Geraldton - Central,502004,Geraldton,502,Geraldton,5,Western Australia,17.6381
+50200402,Geraldton - Surrounds,502004,Geraldton,502,Geraldton,5,Western Australia,227.2256
+50200403,Geraldton - North,502004,Geraldton,502,Geraldton,5,Western Australia,32.8947
+50200404,Southern Beaches,502004,Geraldton,502,Geraldton,5,Western Australia,11.8167
+50200501,Irwin - Morawa,502005,Irwin - Morawa,502,Geraldton,5,Western Australia,25833.66
+50200601,Karalundi,502006,Meekathara - Karalundi,502,Geraldton,5,Western Australia,2.1225
+50200602,Meekatharra exc. Karalundi,502006,Meekathara - Karalundi,502,Geraldton,5,Western Australia,100186.4252
+50200701,Burringurrah,502007,Shark Bay - Coral Bay - Upper Gascoyne,502,Geraldton,5,Western Australia,10.1394
+50200702,Shark Bay - Coral Bay - Upper Gascoyne,502007,Shark Bay - Coral Bay - Upper Gascoyne,502,Geraldton,5,Western Australia,128497.4191
+50300101,Esperance,503001,Esperance - Ravensthorpe,503,Kalgoorlie,5,Western Australia,36.8501
+50300102,Esperance - Ravensthorpe - Surrounds,503001,Esperance - Ravensthorpe,503,Kalgoorlie,5,Western Australia,55623.8097
+50300201,Coolgardie,503002,Kalgoorlie - Dundas - Goldfields,503,Kalgoorlie,5,Western Australia,6.6901
+50300202,Coonana,503002,Kalgoorlie - Dundas - Goldfields,503,Kalgoorlie,5,Western Australia,78.6299
+50300203,Kalgoorlie - Dundas,503002,Kalgoorlie - Dundas - Goldfields,503,Kalgoorlie,5,Western Australia,218426.6147
+50300204,Kambalda,503002,Kalgoorlie - Dundas - Goldfields,503,Kalgoorlie,5,Western Australia,56.7088
+50300205,Kurrawang,503002,Kalgoorlie - Dundas - Goldfields,503,Kalgoorlie,5,Western Australia,3.3574
+50300206,Norseman,503002,Kalgoorlie - Dundas - Goldfields,503,Kalgoorlie,5,Western Australia,6.069
+50300301,Kalgoorlie,503003,Kalgoorlie - Ningia Mia,503,Kalgoorlie,5,Western Australia,102.0363
+50300302,Ningia Mia,503003,Kalgoorlie - Ningia Mia,503,Kalgoorlie,5,Western Australia,0.6737
+50300401,Cosmo Newberry,503004,Laverton - Ngaanyatjarraku,503,Kalgoorlie,5,Western Australia,12.5178
+50300402,Irrunuytju,503004,Laverton - Ngaanyatjarraku,503,Kalgoorlie,5,Western Australia,6.7498
+50300403,Jameson,503004,Laverton - Ngaanyatjarraku,503,Kalgoorlie,5,Western Australia,4.8335
+50300404,Laverton - Ngaanyatjarraku - Surrounds,503004,Laverton - Ngaanyatjarraku,503,Kalgoorlie,5,Western Australia,339745.2143
+50300405,Mount Margaret,503004,Laverton - Ngaanyatjarraku,503,Kalgoorlie,5,Western Australia,3.6137
+50300406,Papulankutja,503004,Laverton - Ngaanyatjarraku,503,Kalgoorlie,5,Western Australia,4.3599
+50300407,Wanarn,503004,Laverton - Ngaanyatjarraku,503,Kalgoorlie,5,Western Australia,5.4722
+50300408,Warakurna,503004,Laverton - Ngaanyatjarraku,503,Kalgoorlie,5,Western Australia,2.0367
+50300501,Leonora,503005,Menzies - Leonora,503,Kalgoorlie,5,Western Australia,3.9076
+50300502,Menzies - Leonora - Surrounds,503005,Menzies - Leonora,503,Kalgoorlie,5,Western Australia,156018.5439
+50300503,Tjuntjuntjarra,503005,Menzies - Leonora,503,Kalgoorlie,5,Western Australia,3.5415
+50300601,Warburton,503006,Warburton,503,Kalgoorlie,5,Western Australia,21.5057
+50300701,Wiluna,503007,Wiluna,503,Kalgoorlie,5,Western Australia,181297.3382
+50400101,Argyle,504001,Argyle - Warmun,504,Kununurra,5,Western Australia,19003.7056
+50400102,Doon Doon,504001,Argyle - Warmun,504,Kununurra,5,Western Australia,4.9717
+50400103,Warmun,504001,Argyle - Warmun,504,Kununurra,5,Western Australia,20.2624
+50400201,Balgo,504002,Great Sandy Desert,504,Kununurra,5,Western Australia,10.0087
+50400202,Great Sandy Desert,504002,Great Sandy Desert,504,Kununurra,5,Western Australia,104413.2038
+50400203,Kundat Djaru,504002,Great Sandy Desert,504,Kununurra,5,Western Australia,34.9997
+50400204,Mindibungu,504002,Great Sandy Desert,504,Kununurra,5,Western Australia,11.66
+50400205,Mulan,504002,Great Sandy Desert,504,Kununurra,5,Western Australia,4.6403
+50400301,Halls Creek exc.Town Camps,504003,Halls Creek,504,Kununurra,5,Western Australia,42.7634
+50400302,Mardiwah Loop - Lundja,504003,Halls Creek,504,Kununurra,5,Western Australia,2.3007
+50400303,Yardgee - Nicholson Town Camps,504003,Halls Creek,504,Kununurra,5,Western Australia,0.1086
+50400401,Halls Creek - Surrounds,504004,Halls Creek - Surrounds,504,Kununurra,5,Western Australia,30820.4287
+50400501,Kalumburu,504005,Kalumburu,504,Kununurra,5,Western Australia,4.0475
+50400601,Kununurra exc. Town Camps,504006,Kununurra,504,Kununurra,5,Western Australia,13.9965
+50400602,Mirima,504006,Kununurra,504,Kununurra,5,Western Australia,0.5225
+50400603,Nulleywah,504006,Kununurra,504,Kununurra,5,Western Australia,0.4194
+50400701,North-East Kimberley,504007,North Kimberley,504,Kununurra,5,Western Australia,10240.8685
+50400702,North-West Kimberley,504007,North Kimberley,504,Kununurra,5,Western Australia,88436.1826
+50400801,Wyndham,504008,Wyndham,504,Kununurra,5,Western Australia,2.2361
+50500101,Armadale - Central,505001,Armadale,505,Perth,5,Western Australia,8.2137
+50500102,Armadale - Surrounds,505001,Armadale,505,Perth,5,Western Australia,529.1216
+50500103,Kelmscott,505001,Armadale,505,Perth,5,Western Australia,15.0443
+50500104,Seville Grove,505001,Armadale,505,Perth,5,Western Australia,4.5652
+50500105,Westfield,505001,Armadale,505,Perth,5,Western Australia,2.5813
+50500201,Bassendean,505002,Bassendean,505,Perth,5,Western Australia,10.3449
+50500301,Bayswater - North,505003,Bayswater,505,Perth,5,Western Australia,15.0607
+50500302,Bayswater - South,505003,Bayswater,505,Perth,5,Western Australia,17.4167
+50500401,Belmont - North,505004,Belmont,505,Perth,5,Western Australia,10.8529
+50500402,Cloverdale,505004,Belmont,505,Perth,5,Western Australia,3.9697
+50500403,Kewdale,505004,Belmont,505,Perth,5,Western Australia,7.7782
+50500404,Rivervale,505004,Belmont,505,Perth,5,Western Australia,3.3406
+50500501,Canning - Central,505005,Canning,505,Perth,5,Western Australia,23.7979
+50500502,Canning - North-East,505005,Canning,505,Perth,5,Western Australia,25.8315
+50500503,Canning Vale - East,505005,Canning,505,Perth,5,Western Australia,15.4133
+50500601,Cockburn - Central,505006,Cockburn,505,Perth,5,Western Australia,51.9207
+50500602,Cockburn - Coast,505006,Cockburn,505,Perth,5,Western Australia,58.3354
+50500603,Cockburn - East,505006,Cockburn,505,Perth,5,Western Australia,58.1107
+50500604,Coolbellup,505006,Cockburn,505,Perth,5,Western Australia,3.1072
+50500605,Hamilton Hill,505006,Cockburn,505,Perth,5,Western Australia,8.3324
+50500701,Fremantle,505007,Fremantle,505,Perth,5,Western Australia,22.1487
+50500801,Beckenham,505008,Gosnells,505,Perth,5,Western Australia,5.5447
+50500802,Canning Vale (West) - Southern River,505008,Gosnells,505,Perth,5,Western Australia,23.1486
+50500803,Gosnells,505008,Gosnells,505,Perth,5,Western Australia,15.5131
+50500804,Huntingdale,505008,Gosnells,505,Perth,5,Western Australia,4.7942
+50500805,Kenwick,505008,Gosnells,505,Perth,5,Western Australia,10.1721
+50500806,Langford,505008,Gosnells,505,Perth,5,Western Australia,3.2416
+50500807,Maddington - Martin - Orange Grove,505008,Gosnells,505,Perth,5,Western Australia,53.2922
+50500808,Thornlie,505008,Gosnells,505,Perth,5,Western Australia,11.591
+50500901,Joondalup - North,505009,Joondalup,505,Perth,5,Western Australia,39.3069
+50500902,Joondalup - South,505009,Joondalup,505,Perth,5,Western Australia,59.6966
+50501001,Forrestfield,505010,Kalamunda,505,Perth,5,Western Australia,17.8702
+50501002,High Wycombe,505010,Kalamunda,505,Perth,5,Western Australia,8.6968
+50501003,Kalamunda - Surrounds,505010,Kalamunda,505,Perth,5,Western Australia,257.233
+50501101,Kwinana - Central,505011,Kwinana,505,Perth,5,Western Australia,12.1268
+50501102,Kwinana - Surrounds,505011,Kwinana,505,Perth,5,Western Australia,107.8853
+50501201,Melville - North,505012,Melville,505,Perth,5,Western Australia,26.4221
+50501202,Melville - South,505012,Melville,505,Perth,5,Western Australia,27.0317
+50501301,Darlington - Mundaring - Chidlow,505013,Mundaring - Swan View,505,Perth,5,Western Australia,675.718
+50501302,Swan View,505013,Mundaring - Swan View,505,Perth,5,Western Australia,7.4535
+50501401,Perth - Central,505014,Perth,505,Perth,5,Western Australia,22.1024
+50501402,Perth - West,505014,Perth,505,Perth,5,Western Australia,57.6014
+50501501,Rockingham - Central Coast,505015,Rockingham,505,Perth,5,Western Australia,58.6604
+50501502,Rockingham - North,505015,Rockingham,505,Perth,5,Western Australia,30.4998
+50501503,Rockingham - South-West,505015,Rockingham,505,Perth,5,Western Australia,156.1148
+50501601,Serpentine - Jarrahdale,505016,Serpentine - Jarrahdale,505,Perth,5,Western Australia,904.7637
+50501701,South Perth,505017,South Perth - Victoria Park,505,Perth,5,Western Australia,19.6727
+50501702,Victoria Park,505017,South Perth - Victoria Park,505,Perth,5,Western Australia,17.6261
+50501801,Stirling - Coast,505018,Stirling,505,Perth,5,Western Australia,38.4461
+50501802,Stirling - East,505018,Stirling,505,Perth,5,Western Australia,24.0973
+50501803,Stirling - Inner North,505018,Stirling,505,Perth,5,Western Australia,8.5513
+50501804,Stirling - Inner South,505018,Stirling,505,Perth,5,Western Australia,40.7673
+50501901,Ballajura - Malaga,505019,Swan,505,Perth,5,Western Australia,16.6773
+50501902,Beechboro,505019,Swan,505,Perth,5,Western Australia,11.0342
+50501903,Bellevue - Koongamia,505019,Swan,505,Perth,5,Western Australia,1.6846
+50501904,Bullsbrook - Gidgegannup,505019,Swan,505,Perth,5,Western Australia,936.9933
+50501905,Ellenbrook,505019,Swan,505,Perth,5,Western Australia,12.2282
+50501906,Guildford - Hazelmere - Woodbridge,505019,Swan,505,Perth,5,Western Australia,41.6999
+50501907,Midland - Viveash,505019,Swan,505,Perth,5,Western Australia,5.6477
+50501908,Midvale - Middle Swan,505019,Swan,505,Perth,5,Western Australia,7.3003
+50501909,Stratton - Jane Brook,505019,Swan,505,Perth,5,Western Australia,23.4944
+50502001,Wanneroo - North-East,505020,Wanneroo - North-East,505,Perth,5,Western Australia,561.621
+50502101,Yanchep - Two Rocks,505021,Yanchep - Two Rocks,505,Perth,5,Western Australia,124.0487
+50600101,East Pilbara - Surrounds,506001,East Pilbara,506,South Hedland,5,Western Australia,372211.9153
+50600102,Jigalong,506001,East Pilbara,506,South Hedland,5,Western Australia,14.424
+50600103,Kiwirrkurra,506001,East Pilbara,506,South Hedland,5,Western Australia,29.5341
+50600104,Kunawarritji,506001,East Pilbara,506,South Hedland,5,Western Australia,1.6995
+50600105,Marble Bar - Mirtunkarra (Goodabinya),506001,East Pilbara,506,South Hedland,5,Western Australia,2.7385
+50600106,Newman,506001,East Pilbara,506,South Hedland,5,Western Australia,17.0749
+50600107,Nullagine,506001,East Pilbara,506,South Hedland,5,Western Australia,0.5776
+50600108,Parnngurr,506001,East Pilbara,506,South Hedland,5,Western Australia,3.6541
+50600109,Punmu,506001,East Pilbara,506,South Hedland,5,Western Australia,12.9762
+50600110,Warralong,506001,East Pilbara,506,South Hedland,5,Western Australia,12.8718
+50600201,Exmouth - Ashburton - Surrounds,506002,Exmouth - Ashburton,506,South Hedland,5,Western Australia,107284.728
+50600202,Onslow,506002,Exmouth - Ashburton,506,South Hedland,5,Western Australia,14.3362
+50600203,Paraburdoo,506002,Exmouth - Ashburton,506,South Hedland,5,Western Australia,3.2897
+50600204,Tom Price,506002,Exmouth - Ashburton,506,South Hedland,5,Western Australia,3.0281
+50600301,Karratha,506003,Karratha,506,South Hedland,5,Western Australia,134.2041
+50600401,Mugarinya (Yandeyarra),506004,Port Hedland,506,South Hedland,5,Western Australia,15.3586
+50600402,Port Hedland - Surrounds,506004,Port Hedland,506,South Hedland,5,Western Australia,18284.523
+50600403,Port Hedland exc. Tjalka Brooda,506004,Port Hedland,506,South Hedland,5,Western Australia,94.1335
+50600404,South Hedland,506004,Port Hedland,506,South Hedland,5,Western Australia,22.2565
+50600405,Tjalka Boorda,506004,Port Hedland,506,South Hedland,5,Western Australia,0.0423
+50600501,Cheeditha - Mingullatharndo,506005,Roebourne - Wickham,506,South Hedland,5,Western Australia,222.3272
+50600502,Dampier,506005,Roebourne - Wickham,506,South Hedland,5,Western Australia,14875.7792
+50600503,Injudunna,506005,Roebourne - Wickham,506,South Hedland,5,Western Australia,0.1501
+50600504,Roebourne,506005,Roebourne - Wickham,506,South Hedland,5,Western Australia,4.7243
+50600505,Wickham,506005,Roebourne - Wickham,506,South Hedland,5,Western Australia,1.8722
+50700101,Albany - Central,507001,Albany,507,South-Western WA,5,Western Australia,27.7783
+50700102,Albany - Surrounds,507001,Albany,507,South-Western WA,5,Western Australia,4280.5223
+50700201,Avon - Surrounds,507002,Avon,507,South-Western WA,5,Western Australia,31264.6674
+50700202,Beverley,507002,Avon,507,South-Western WA,5,Western Australia,6.8146
+50700203,Kellerberrin,507002,Avon,507,South-Western WA,5,Western Australia,1918.043
+50700204,Quairading,507002,Avon,507,South-Western WA,5,Western Australia,2.4964
+50700205,York,507002,Avon,507,South-Western WA,5,Western Australia,17.4141
+50700301,Bunbury - North Coast,507003,Bunbury,507,South-Western WA,5,Western Australia,14.7832
+50700302,Bunbury - North-East,507003,Bunbury,507,South-Western WA,5,Western Australia,21.0373
+50700303,Bunbury - South,507003,Bunbury,507,South-Western WA,5,Western Australia,21.1977
+50700304,Carey Park,507003,Bunbury,507,South-Western WA,5,Western Australia,4.0726
+50700305,Withers,507003,Bunbury,507,South-Western WA,5,Western Australia,4.3657
+50700401,Busselton,507004,Busselton,507,South-Western WA,5,Western Australia,1423.3036
+50700501,Merredin,507005,Campion,507,South-Western WA,5,Western Australia,9827.5053
+50700502,Mukinbudin,507005,Campion,507,South-Western WA,5,Western Australia,50176.9813
+50700601,Harvey and Surrounds,507006,Harvey and Surrounds,507,South-Western WA,5,Western Australia,1727.9413
+50700701,Brookton,507007,Hotham - Kulin,507,South-Western WA,5,Western Australia,6186.2886
+50700702,Kulin,507007,Hotham - Kulin,507,South-Western WA,5,Western Australia,28626.1668
+50700703,Pingelly,507007,Hotham - Kulin,507,South-Western WA,5,Western Australia,1294.5721
+50700801,Gnowangerup,507008,Kojonup - Gnowangerup,507,South-Western WA,5,Western Australia,15012.8153
+50700802,Kojonup,507008,Kojonup - Gnowangerup,507,South-Western WA,5,Western Australia,8554.5096
+50700901,Mandurah,507009,Mandurah,507,South-Western WA,5,Western Australia,224.0035
+50701001,Denmark - Plantagenet,507010,Manjimup - Denmark - Plantagenet,507,South-Western WA,5,Western Australia,7365.3468
+50701002,Manjimup,507010,Manjimup - Denmark - Plantagenet,507,South-Western WA,5,Western Australia,7029.6077
+50701101,Gingin - Dandaragan - Chittering,507011,Moora - Chittering,507,South-Western WA,5,Western Australia,13690.847
+50701102,Moora,507011,Moora - Chittering,507,South-Western WA,5,Western Australia,3763.0254
+50701201,Murray - Boddington,507012,Murray - Waroona - Boddington,507,South-Western WA,5,Western Australia,2746.4237
+50701202,Pinjarra,507012,Murray - Waroona - Boddington,507,South-Western WA,5,Western Australia,808.8593
+50701203,Waroona,507012,Murray - Waroona - Boddington,507,South-Western WA,5,Western Australia,832.2286
+50701301,Katanning,507013,Narrogin - Wagin - Katanning,507,South-Western WA,5,Western Australia,2647.0202
+50701302,Narrogin - Wagin,507013,Narrogin - Wagin - Katanning,507,South-Western WA,5,Western Australia,9909.3548
+50701401,Northam,507014,Northam,507,South-Western WA,5,Western Australia,26.7836
+50701501,Augusta - Margaret River,507015,South-West,507,South-Western WA,5,Western Australia,1419.0938
+50701502,Bridgetown - Scott River East,507015,South-West,507,South-Western WA,5,Western Australia,7921.0368
+50701503,Capel - Dardanup,507015,South-West,507,South-Western WA,5,Western Australia,1114.0722
+50701504,Collie,507015,South-West,507,South-Western WA,5,Western Australia,1709.8149
+50701505,Donnybrook - Balingup,507015,South-West,507,South-Western WA,5,Western Australia,1559.8561
+50800101,Derby,508001,Derby - Mowanjum,508,West Kimberley,5,Western Australia,20.423
+50800102,Karmarlinunga - Djimu Nguda - Budulah,508001,Derby - Mowanjum,508,West Kimberley,5,Western Australia,0.4655
+50800103,Mowanjum,508001,Derby - Mowanjum,508,West Kimberley,5,Western Australia,1.4652
+50800201,Fitzroy Crossing,508002,Fitzroy Crossing,508,West Kimberley,5,Western Australia,7.4195
+50800202,Fitzroy Crossing - Surrounds,508002,Fitzroy Crossing,508,West Kimberley,5,Western Australia,9012.3399
+50800203,Junjuwa,508002,Fitzroy Crossing,508,West Kimberley,5,Western Australia,1.5419
+50800204,Mindi Rardi - Kurnangki,508002,Fitzroy Crossing,508,West Kimberley,5,Western Australia,0.3709
+50800205,Yungngora,508002,Fitzroy Crossing,508,West Kimberley,5,Western Australia,3.7561
+50800301,Bayulu,508003,Fitzroy River,508,West Kimberley,5,Western Australia,7.3561
+50800302,Djugerari,508003,Fitzroy River,508,West Kimberley,5,Western Australia,2.5603
+50800303,Fitzroy River - Surrounds,508003,Fitzroy River,508,West Kimberley,5,Western Australia,32260.7419
+50800304,Joy Springs,508003,Fitzroy River,508,West Kimberley,5,Western Australia,0.166
+50800305,Kooraby,508003,Fitzroy River,508,West Kimberley,5,Western Australia,1.0079
+50800306,Muludja,508003,Fitzroy River,508,West Kimberley,5,Western Australia,4.9996
+50800307,Wangkatjungka,508003,Fitzroy River,508,West Kimberley,5,Western Australia,3.1146
+50800308,Yakanarra,508003,Fitzroy River,508,West Kimberley,5,Western Australia,7.9067
+50800401,Jarlmadangah Burru,508004,Outer Derby - West Kimberley,508,West Kimberley,5,Western Australia,1.2554
+50800402,Kupungarri,508004,Outer Derby - West Kimberley,508,West Kimberley,5,Western Australia,15.6264
+50800403,Looma,508004,Outer Derby - West Kimberley,508,West Kimberley,5,Western Australia,40.4419
+50800404,Outer Derby - West Kimberley,508004,Outer Derby - West Kimberley,508,West Kimberley,5,Western Australia,69404.7381
+50800405,Pandanus Park,508004,Outer Derby - West Kimberley,508,West Kimberley,5,Western Australia,1.2188
+59499494,No usual address (WA),594994,No usual address (WA),594,No usual address (WA),5,Western Australia,0
+59799797,Migratory - Offshore - Shipping (WA),597997,Migratory - Offshore - Shipping (WA),597,Migratory - Offshore - Shipping (WA),5,Western Australia,0
+60100101,Devonport,601001,Central Coast - Devonport,601,Tasmania,6,Tasmania,127.8607
+60100102,Ulverstone - Penguin,601001,Central Coast - Devonport,601,Tasmania,6,Tasmania,141.4155
+60100103,Ulverstone - Penguin - Surrounds,601001,Central Coast - Devonport,601,Tasmania,6,Tasmania,796.927
+60100201,Campbell Town,601002,Central Tasmania,601,Tasmania,6,Tasmania,4763.6291
+60100202,Central Highlands (Tas.),601002,Central Tasmania,601,Tasmania,6,Tasmania,7060.4867
+60100203,Derwent Valley,601002,Central Tasmania,601,Tasmania,6,Tasmania,8853.1636
+60100204,Longford - Evandale,601002,Central Tasmania,601,Tasmania,6,Tasmania,449.3125
+60100205,Southern Midlands,601002,Central Tasmania,601,Tasmania,6,Tasmania,2600.2608
+60100301,Brighton,601003,Greater Hobart,601,Tasmania,6,Tasmania,169.6714
+60100302,Clarence,601003,Greater Hobart,601,Tasmania,6,Tasmania,374.8203
+60100303,Glenorchy,601003,Greater Hobart,601,Tasmania,6,Tasmania,81.1038
+60100304,Hobart,601003,Greater Hobart,601,Tasmania,6,Tasmania,148.3517
+60100401,Cygnet,601004,Huon Valley,601,Tasmania,6,Tasmania,2.3141
+60100402,Geeveston,601004,Huon Valley,601,Tasmania,6,Tasmania,3.0818
+60100403,Huonville - South Cape,601004,Huon Valley,601,Tasmania,6,Tasmania,1743.8215
+60100501,Kingborough,601005,Kingborough,601,Tasmania,6,Tasmania,685.8368
+60100601,Launceston,601006,Launceston,601,Tasmania,6,Tasmania,1425.3069
+60100701,Blackstone - Prospect Vale,601007,Meander Valley - Kentish,601,Tasmania,6,Tasmania,23.0335
+60100702,Kentish,601007,Meander Valley - Kentish,601,Tasmania,6,Tasmania,1156.4976
+60100703,Meander Valley,601007,Meander Valley - Kentish,601,Tasmania,6,Tasmania,3369.6474
+60100801,Break O'Day,601008,Tasmania - North-East Coast,601,Tasmania,6,Tasmania,3299.1469
+60100802,Dorset,601008,Tasmania - North-East Coast,601,Tasmania,6,Tasmania,3205.7138
+60100803,Flinders,601008,Tasmania - North-East Coast,601,Tasmania,6,Tasmania,1996.6244
+60100804,George Town,601008,Tasmania - North-East Coast,601,Tasmania,6,Tasmania,747.168
+60100901,Glamorgan - Spring Day,601009,Tasmania - South-East Coast,601,Tasmania,6,Tasmania,2542.214
+60100902,Sorell,601009,Tasmania - South-East Coast,601,Tasmania,6,Tasmania,591.854
+60100903,Tasman,601009,Tasmania - South-East Coast,601,Tasmania,6,Tasmania,660.3947
+60101001,Burnie,601010,Tasmania - West Coast,601,Tasmania,6,Tasmania,612.2995
+60101002,Circular Head - King Island,601010,Tasmania - West Coast,601,Tasmania,6,Tasmania,5953.3069
+60101003,Waratah,601010,Tasmania - West Coast,601,Tasmania,6,Tasmania,3489.4721
+60101004,Wynyard,601010,Tasmania - West Coast,601,Tasmania,6,Tasmania,85.5336
+60101005,Zeehan - Franklin,601010,Tasmania - West Coast,601,Tasmania,6,Tasmania,9583.5388
+60101101,Latrobe - Hawley Beach,601011,West Tamar - Latrobe,601,Tasmania,6,Tasmania,578.2978
+60101102,West Tamar,601011,West Tamar - Latrobe,601,Tasmania,6,Tasmania,695.7535
+69499494,No usual address (Tas.),694994,No usual address (Tas.),694,No usual address (Tas.),6,Tasmania,0
+69799797,Migratory - Offshore - Shipping (Tas.),697997,Migratory - Offshore - Shipping (Tas.),697,Migratory - Offshore - Shipping (Tas.),6,Tasmania,0
+70100101,Charles,701001,Alice exc. Town Camps,701,Alice Springs,7,Northern Territory,16.1681
+70100102,Flynn,701001,Alice exc. Town Camps,701,Alice Springs,7,Northern Territory,16.0969
+70100103,Heavitree,701001,Alice exc. Town Camps,701,Alice Springs,7,Northern Territory,183.6927
+70100104,Ilparpa community,701001,Alice exc. Town Camps,701,Alice Springs,7,Northern Territory,3.2912
+70100105,Larapinta,701001,Alice exc. Town Camps,701,Alice Springs,7,Northern Territory,58.5557
+70100106,Mount Johns,701001,Alice exc. Town Camps,701,Alice Springs,7,Northern Territory,18.9529
+70100107,Ross,701001,Alice exc. Town Camps,701,Alice Springs,7,Northern Territory,23.5713
+70100108,Yirara College and Surrounds,701001,Alice exc. Town Camps,701,Alice Springs,7,Northern Territory,0.4015
+70100109,Amoonguna,701001,Alice exc. Town Camps,701,Alice Springs,7,Northern Territory,5.5884
+70100201,Anthelk Ewlpaye,701002,Alice Springs Town Camps,701,Alice Springs,7,Northern Territory,0.1358
+70100202,Anthepe - New Llparpa - Tyeweretye,701002,Alice Springs Town Camps,701,Alice Springs,7,Northern Territory,3.0687
+70100203,Ewyenper - Ilpeye - Irklancha,701002,Alice Springs Town Camps,701,Alice Springs,7,Northern Territory,2.1956
+70100204,Ilperle-Tyathe - Mt Nancy - Aper-Alwerr,701002,Alice Springs Town Camps,701,Alice Springs,7,Northern Territory,0.2052
+70100205,Inarlenge,701002,Alice Springs Town Camps,701,Alice Springs,7,Northern Territory,0.2281
+70100206,Nyewente - Akngwertnarre - Namatjira,701002,Alice Springs Town Camps,701,Alice Springs,7,Northern Territory,0.1839
+70100207,Yarrenyty-Arltere,701002,Alice Springs Town Camps,701,Alice Springs,7,Northern Territory,0.9657
+70200102,Santa Teresa (Ltyentye Purte),702001,Amoonguna - Santa Teresa - Titjikala,702,Apatula,7,Northern Territory,1247.1447
+70200103,South MacDonnell Ranges,702001,Amoonguna - Santa Teresa - Titjikala,702,Apatula,7,Northern Territory,31517.5382
+70200104,Titjikala,702001,Amoonguna - Santa Teresa - Titjikala,702,Apatula,7,Northern Territory,3.8542
+70200201,Ampilatwatja and Outstations,702002,Ampilatwatja and Outstations,702,Apatula,7,Northern Territory,15124.1872
+70200301,Anmatjere - Surrounds,702003,Anmatjere,702,Apatula,7,Northern Territory,49609.3293
+70200302,Anmatjere - Ti Tree,702003,Anmatjere,702,Apatula,7,Northern Territory,64.7328
+70200303,Laramba,702003,Anmatjere,702,Apatula,7,Northern Territory,5.0806
+70200304,Nturiya,702003,Anmatjere,702,Apatula,7,Northern Territory,0.1869
+70200305,Pmara Jutunta,702003,Anmatjere,702,Apatula,7,Northern Territory,1.7664
+70200306,Wilora,702003,Anmatjere,702,Apatula,7,Northern Territory,2.667
+70200401,Apatula (Finke),702004,Apatula (Finke) and Homelands,702,Apatula,7,Northern Territory,28.7808
+70200402,Apatula (Finke) Homelands,702004,Apatula (Finke) and Homelands,702,Apatula,7,Northern Territory,87580.835
+70200501,Atitjere,702005,Atitjere - Akarnenehe - Engawala,702,Apatula,7,Northern Territory,7.0143
+70200502,Atitjere - Akarnenehe Outstations,702005,Atitjere - Akarnenehe - Engawala,702,Apatula,7,Northern Territory,67455.125
+70200503,Engawala,702005,Atitjere - Akarnenehe - Engawala,702,Apatula,7,Northern Territory,3.8271
+70200601,Haasts Bluff and Outstations,702006,Haasts Bluff - Mount Liebig (Watiyawanu),702,Apatula,7,Northern Territory,2854.4301
+70200602,Mount Liebig and Outstations,702006,Haasts Bluff - Mount Liebig (Watiyawanu),702,Apatula,7,Northern Territory,699.4701
+70200701,Hermannsburg,702007,Hermannsburg,702,Apatula,7,Northern Territory,13.3095
+70200801,Kaltukatjara (Docker River),702008,Kaltukatjara and Outstations,702,Apatula,7,Northern Territory,38.1848
+70200802,Kaltukatjara Outstations,702008,Kaltukatjara and Outstations,702,Apatula,7,Northern Territory,87472.4412
+70200901,Imanpa (Mount Ebenezer ),702009,Mutitjulu - Uluru - Imanpa,702,Apatula,7,Northern Territory,16.2779
+70200902,Mutitjulu - Uluru,702009,Mutitjulu - Uluru - Imanpa,702,Apatula,7,Northern Territory,105.6338
+70201001,Nyirripi,702010,Nyirripi and Tanami Outstations,702,Apatula,7,Northern Territory,8.2144
+70201002,Tanami Outstations,702010,Nyirripi and Tanami Outstations,702,Apatula,7,Northern Territory,141986.0595
+70201101,Papunya,702011,Papunya and Outstations,702,Apatula,7,Northern Territory,4.739
+70201102,Papunya Outstations,702011,Papunya and Outstations,702,Apatula,7,Northern Territory,2326.1983
+70201201,Atneltyey,702012,Urapuntja,702,Apatula,7,Northern Territory,0.6066
+70201202,Illeuwurru - Inkawenyerre,702012,Urapuntja,702,Apatula,7,Northern Territory,1750.001
+70201203,Irrultja,702012,Urapuntja,702,Apatula,7,Northern Territory,0.2253
+70201204,Utopia - Arawerr - Arlparra,702012,Urapuntja,702,Apatula,7,Northern Territory,2624.214
+70201301,Walungurru (Kintore),702013,Walungurru and Outstations,702,Apatula,7,Northern Territory,8.2003
+70201302,Walungurru Outstations,702013,Walungurru and Outstations,702,Apatula,7,Northern Territory,28750.9588
+70201401,Areyonga,702014,West MacDonnell Ranges,702,Apatula,7,Northern Territory,6.9813
+70201402,Ingkerreke Outstations,702014,West MacDonnell Ranges,702,Apatula,7,Northern Territory,9777.1413
+70201403,Tjuwanpa Outstations,702014,West MacDonnell Ranges,702,Apatula,7,Northern Territory,15970.5215
+70201404,Wallace Rockhole,702014,West MacDonnell Ranges,702,Apatula,7,Northern Territory,4.2355
+70201501,Willowra,702015,Willowra,702,Apatula,7,Northern Territory,13.7451
+70201601,Yuelamu,702016,Yuelamu,702,Apatula,7,Northern Territory,26.6195
+70201701,Yuendumu and Outstations,702017,Yuendumu and Outstations,702,Apatula,7,Northern Territory,22120.9495
+70300101,Alawa,703001,Alawa - Brinkin - Nakara,703,Darwin,7,Northern Territory,1.2399
+70300102,Brinkin - Nakara,703001,Alawa - Brinkin - Nakara,703,Darwin,7,Northern Territory,2.6861
+70300201,Anula,703002,Anula - Wulagi,703,Darwin,7,Northern Territory,1.3178
+70300202,Wulagi,703002,Anula - Wulagi,703,Darwin,7,Northern Territory,1.2629
+70300301,Bagot Community,703003,Coconut Grove - Ludmilla,703,Darwin,7,Northern Territory,0.2496
+70300302,Coconut Grove - Ludmilla,703003,Coconut Grove - Ludmilla,703,Darwin,7,Northern Territory,2.1119
+70300303,Kulaluk,703003,Coconut Grove - Ludmilla,703,Darwin,7,Northern Territory,0.0476
+70300304,Minmarama Park,703003,Coconut Grove - Ludmilla,703,Darwin,7,Northern Territory,2.9605
+70300401,Adelaide River - Coomalie,703004,Cox - Finniss - Coomalie,703,Darwin,7,Northern Territory,1496.2848
+70300402,Batchelor,703004,Cox - Finniss - Coomalie,703,Darwin,7,Northern Territory,10.2782
+70300403,Belyuen,703004,Cox - Finniss - Coomalie,703,Darwin,7,Northern Territory,41.4054
+70300404,Cox - Finniss,703004,Cox - Finniss - Coomalie,703,Darwin,7,Northern Territory,6274.709
+70300501,Darwin - Central,703005,Darwin - Inner Suburbs,703,Darwin,7,Northern Territory,3.1734
+70300502,Fannie Bay - Parap,703005,Darwin - Inner Suburbs,703,Darwin,7,Northern Territory,5.596
+70300503,Larrakeyah - The Gardens,703005,Darwin - Inner Suburbs,703,Darwin,7,Northern Territory,3.7449
+70300504,Stuart Park - Bayview - Woolner,703005,Darwin - Inner Suburbs,703,Darwin,7,Northern Territory,4.0189
+70300601,Karama,703006,Karama,703,Darwin,7,Northern Territory,2.0655
+70300701,Acacia-Larrakia,703007,Litchfield,703,Darwin,7,Northern Territory,257.252
+70300702,Bees Creek - Virginia,703007,Litchfield,703,Darwin,7,Northern Territory,54.7363
+70300703,Darwin River - Berry Springs - Southport,703007,Litchfield,703,Darwin,7,Northern Territory,679.2667
+70300704,Howard Springs - Gunn Point,703007,Litchfield,703,Darwin,7,Northern Territory,1329.6466
+70300705,Humpty Doo - Elizabeth Valley,703007,Litchfield,703,Darwin,7,Northern Territory,617.2892
+70300706,Knuckey Lagoon,703007,Litchfield,703,Darwin,7,Northern Territory,18.2183
+70300801,Malak,703008,Malak,703,Darwin,7,Northern Territory,1.7493
+70300901,Marrara - Winnellie - Berrimah,703009,Marrara - Winnellie - Berrimah,703,Darwin,7,Northern Territory,77.1261
+70301001,Jingili,703010,Millner - Jingili,703,Darwin,7,Northern Territory,1.3163
+70301002,Millner,703010,Millner - Jingili,703,Darwin,7,Northern Territory,1.4677
+70301101,Moil,703011,Moil - Wagaman - Wanguri,703,Darwin,7,Northern Territory,1.0424
+70301102,Wagaman,703011,Moil - Wagaman - Wanguri,703,Darwin,7,Northern Territory,0.8378
+70301103,Wanguri,703011,Moil - Wagaman - Wanguri,703,Darwin,7,Northern Territory,0.8855
+70301201,Nightcliff,703012,Nightcliff - Rapid Creek,703,Darwin,7,Northern Territory,1.4512
+70301202,Rapid Creek,703012,Nightcliff - Rapid Creek,703,Darwin,7,Northern Territory,1.9176
+70301301,Bakewell - Rosebery - Mitchell,703013,Palmerston,703,Darwin,7,Northern Territory,30.925
+70301302,Driver,703013,Palmerston,703,Darwin,7,Northern Territory,1.7157
+70301303,Farrar - Durack - Marlow Lagoon,703013,Palmerston,703,Darwin,7,Northern Territory,15.0371
+70301304,Gray,703013,Palmerston,703,Darwin,7,Northern Territory,1.5029
+70301305,Moulden,703013,Palmerston,703,Darwin,7,Northern Territory,1.7504
+70301306,Palmerston Indigenous Village,703013,Palmerston,703,Darwin,7,Northern Territory,0.1271
+70301307,Woodroffe,703013,Palmerston,703,Darwin,7,Northern Territory,1.5977
+70301401,Lyons - Lee Point - Leanyer,703014,Tiwi - Lyons - Leanyer,703,Darwin,7,Northern Territory,33.4531
+70301402,Tiwi,703014,Tiwi - Lyons - Leanyer,703,Darwin,7,Northern Territory,3.1187
+70400101,Douglas-Daly,704001,Douglas-Daly,704,Jabiru - Tiwi,7,Northern Territory,34368.2994
+70400102,Emu Point,704001,Douglas-Daly,704,Jabiru - Tiwi,7,Northern Territory,1.3753
+70400103,Nauiyu Nambiyu,704001,Douglas-Daly,704,Jabiru - Tiwi,7,Northern Territory,4.2949
+70400104,Nganmarriyanga (Palumpa),704001,Douglas-Daly,704,Jabiru - Tiwi,7,Northern Territory,46.3918
+70400105,Peppimenarti,704001,Douglas-Daly,704,Jabiru - Tiwi,7,Northern Territory,5.6576
+70400106,Pine Creek,704001,Douglas-Daly,704,Jabiru - Tiwi,7,Northern Territory,402.0523
+70400201,Jabiru,704002,Kakadu - Marrakai - Jabiru,704,Jabiru - Tiwi,7,Northern Territory,13.5083
+70400202,Kakadu - Marrakai - Surrounds,704002,Kakadu - Marrakai - Jabiru,704,Jabiru - Tiwi,7,Northern Territory,25261.6924
+70400203,Mudginberri,704002,Kakadu - Marrakai - Jabiru,704,Jabiru - Tiwi,7,Northern Territory,2.7874
+70400301,Maningrida,704003,Maningrida and Outstations,704,Jabiru - Tiwi,7,Northern Territory,11.0552
+70400302,Maningrida Outstations,704003,Maningrida and Outstations,704,Jabiru - Tiwi,7,Northern Territory,9758.0375
+70400401,Cobourg Peninsula - Demed Homelands,704004,North-West Arnhem,704,Jabiru - Tiwi,7,Northern Territory,23675.7318
+70400402,Gunbalanya,704004,North-West Arnhem,704,Jabiru - Tiwi,7,Northern Territory,35.8199
+70400403,Mamadawerre,704004,North-West Arnhem,704,Jabiru - Tiwi,7,Northern Territory,0.5645
+70400404,Manmoyi,704004,North-West Arnhem,704,Jabiru - Tiwi,7,Northern Territory,0.7425
+70400405,Minjilang,704004,North-West Arnhem,704,Jabiru - Tiwi,7,Northern Territory,11.4327
+70400406,Warruwi,704004,North-West Arnhem,704,Jabiru - Tiwi,7,Northern Territory,15.8586
+70400501,Thamarrurr exc. Wadeye,704005,Thamarrurr inc. Wadeye,704,Jabiru - Tiwi,7,Northern Territory,3352.8699
+70400502,Wadeye,704005,Thamarrurr inc. Wadeye,704,Jabiru - Tiwi,7,Northern Territory,20.8379
+70400601,Milikapiti,704006,Tiwi Islands,704,Jabiru - Tiwi,7,Northern Territory,11.4786
+70400602,Pirlangimpi,704006,Tiwi Islands,704,Jabiru - Tiwi,7,Northern Territory,11.8509
+70400603,Tiwi Islands - Wilderness,704006,Tiwi Islands,704,Jabiru - Tiwi,7,Northern Territory,7449.7682
+70400604,Wurrumiyanga (Nguiu),704006,Tiwi Islands,704,Jabiru - Tiwi,7,Northern Territory,10.0684
+70500101,Borroloola exc. Mara - Yanyula,705001,Borroloola,705,Katherine,7,Northern Territory,11.7372
+70500102,Mara,705001,Borroloola,705,Katherine,7,Northern Territory,0.5363
+70500103,Yanyula,705001,Borroloola,705,Katherine,7,Northern Territory,0.2898
+70500201,Daguragu,705002,Daguragu - Kalkarindji and Outstations,705,Katherine,7,Northern Territory,44.1812
+70500202,Kalkarindji,705002,Daguragu - Kalkarindji and Outstations,705,Katherine,7,Northern Territory,6.2259
+70500301,Barunga,705003,Elsey - Roper,705,Katherine,7,Northern Territory,7.4509
+70500302,Bulman - Weemol,705003,Elsey - Roper,705,Katherine,7,Northern Territory,13.8936
+70500303,Elsey Roper - Surrounds,705003,Elsey - Roper,705,Katherine,7,Northern Territory,92882.2786
+70500304,Jilkminggan,705003,Elsey - Roper,705,Katherine,7,Northern Territory,6.0984
+70500305,Manyallaluk,705003,Elsey - Roper,705,Katherine,7,Northern Territory,1.6155
+70500306,Mataranka - Mulggan,705003,Elsey - Roper,705,Katherine,7,Northern Territory,35.6541
+70500307,Wugular (Beswick),705003,Elsey - Roper,705,Katherine,7,Northern Territory,2.744
+70500401,Mabunji - Mungoorbada Outstations,705004,Gulf,705,Katherine,7,Northern Territory,55038.4066
+70500402,Minyerri,705004,Gulf,705,Katherine,7,Northern Territory,2.9072
+70500403,Rittarangu,705004,Gulf,705,Katherine,7,Northern Territory,7.5551
+70500404,Robinson River (Mungoorbada),705004,Gulf,705,Katherine,7,Northern Territory,1.1406
+70500405,Yugul Mangi Outstations,705004,Gulf,705,Katherine,7,Northern Territory,32782.3489
+70500501,Binjari,705005,Katherine Town,705,Katherine,7,Northern Territory,2.8065
+70500502,Katherine exc. Town Camps,705005,Katherine Town,705,Katherine,7,Northern Territory,7411.5099
+70500503,Miali Brumby - Warlpiri,705005,Katherine Town,705,Katherine,7,Northern Territory,2.4717
+70500504,Rockhole,705005,Katherine Town,705,Katherine,7,Northern Territory,0.1616
+70500601,Lajamanu,705006,Lajamanu,705,Katherine,7,Northern Territory,6.7088
+70500701,Ngukurr,705007,Ngukurr,705,Katherine,7,Northern Territory,12.0357
+70500801,Amanbidji (Mialuni),705008,Victoria River,705,Katherine,7,Northern Territory,3.3074
+70500802,Bulla,705008,Victoria River,705,Katherine,7,Northern Territory,6.3311
+70500803,Daguragu Outstations,705008,Victoria River,705,Katherine,7,Northern Territory,41402.2662
+70500804,Timber Creek,705008,Victoria River,705,Katherine,7,Northern Territory,159.6701
+70500805,Timber Creek - Surrounds,705008,Victoria River,705,Katherine,7,Northern Territory,64510.9319
+70500901,Pigeon Hole,705009,Walangeri,705,Katherine,7,Northern Territory,37.3093
+70500902,Walangeri Outstations,705009,Walangeri,705,Katherine,7,Northern Territory,27280.9228
+70500903,Yarralin,705009,Walangeri,705,Katherine,7,Northern Territory,150.6986
+70600101,Alyangula,706001,Anindilyakwa (Groote),706,Nhulunbuy,7,Northern Territory,2.1487
+70600102,Angurugu,706001,Anindilyakwa (Groote),706,Nhulunbuy,7,Northern Territory,1.5128
+70600103,Angurugu Outstations,706001,Anindilyakwa (Groote),706,Nhulunbuy,7,Northern Territory,879.1342
+70600104,Milyakburra and Outstations,706001,Anindilyakwa (Groote),706,Nhulunbuy,7,Northern Territory,237.4672
+70600105,Umbakumba and Outstations,706001,Anindilyakwa (Groote),706,Nhulunbuy,7,Northern Territory,1488.7767
+70600201,Gapuwiyak,706002,Gapuwiyak and Outstations,706,Nhulunbuy,7,Northern Territory,11.9273
+70600202,Gapuwiyak Outstations,706002,Gapuwiyak and Outstations,706,Nhulunbuy,7,Northern Territory,6341.3537
+70600301,Dhalinybuy,706003,Laynhapuy - Gumatj Homelands,706,Nhulunbuy,7,Northern Territory,2.7288
+70600302,Gan Gan,706003,Laynhapuy - Gumatj Homelands,706,Nhulunbuy,7,Northern Territory,2.1618
+70600303,Gumatj - Surrounds,706003,Laynhapuy - Gumatj Homelands,706,Nhulunbuy,7,Northern Territory,2644.1939
+70600304,Laynhapuy,706003,Laynhapuy - Gumatj Homelands,706,Nhulunbuy,7,Northern Territory,5255.6095
+70600305,Yilpara,706003,Laynhapuy - Gumatj Homelands,706,Nhulunbuy,7,Northern Territory,1.433
+70600401,Galiwinku,706004,Marthakal Homelands - Galiwinku,706,Nhulunbuy,7,Northern Territory,4.8496
+70600402,Marthakal Homelands exc. Galiwinku,706004,Marthakal Homelands - Galiwinku,706,Nhulunbuy,7,Northern Territory,5177.516
+70600501,Gunyangara,706005,Nhulunbuy - Gunyangara,706,Nhulunbuy,7,Northern Territory,2.8863
+70600502,Nhulunbuy,706005,Nhulunbuy - Gunyangara,706,Nhulunbuy,7,Northern Territory,82.6171
+70600601,Numbulwar and Outstations,706006,Numbulwar and Outstations,706,Nhulunbuy,7,Northern Territory,4418.07
+70600701,Milingimbi,706007,Ramingining - Milingimbi and Outstations,706,Nhulunbuy,7,Northern Territory,4.4443
+70600702,Ramingining,706007,Ramingining - Milingimbi and Outstations,706,Nhulunbuy,7,Northern Territory,28.3634
+70600703,Ramingining - Milingimbi Outstations,706007,Ramingining - Milingimbi and Outstations,706,Nhulunbuy,7,Northern Territory,11429.0372
+70600801,Yirrkala,706008,Yirrkala,706,Nhulunbuy,7,Northern Territory,8.4278
+70700101,Ali Curung,707001,Ali Curung,707,Tennant Creek,7,Northern Territory,443.1496
+70700201,Alpurrurulam,707002,Alpurrurulam,707,Tennant Creek,7,Northern Territory,9.9926
+70700301,Barkly Tablelands - Outstations,707003,Barkly,707,Tennant Creek,7,Northern Territory,79909.4446
+70700302,Elliott Surrounds - Outstations,707003,Barkly,707,Tennant Creek,7,Northern Territory,115005.6996
+70700303,Imangara,707003,Barkly,707,Tennant Creek,7,Northern Territory,6.1761
+70700304,Julalikari - Outstations,707003,Barkly,707,Tennant Creek,7,Northern Territory,107785.6501
+70700305,Tara,707003,Barkly,707,Tennant Creek,7,Northern Territory,6.6182
+70700401,Elliott,707004,Elliott,707,Tennant Creek,7,Northern Territory,2.9959
+70700501,Kargaru,707005,Tennant Creek Town,707,Tennant Creek,7,Northern Territory,0.9128
+70700502,Marla Marla - Village Camp,707005,Tennant Creek Town,707,Tennant Creek,7,Northern Territory,0.4633
+70700503,Ngalpa Ngalpa - Wuppa,707005,Tennant Creek Town,707,Tennant Creek,7,Northern Territory,0.4306
+70700504,Tennant Creek exc. Town Camps,707005,Tennant Creek Town,707,Tennant Creek,7,Northern Territory,40.2538
+70700601,Canteen Creek,707006,Wutunugurra - Canteen Creek,707,Tennant Creek,7,Northern Territory,1.1999
+70700602,Wutunugurra,707006,Wutunugurra - Canteen Creek,707,Tennant Creek,7,Northern Territory,0.9976
+79499494,No usual address (NT),794994,No usual address (NT),794,No usual address (NT),7,Northern Territory,0
+79799797,Migratory - Offshore - Shipping (NT),797997,Migratory - Offshore - Shipping (NT),797,Migratory - Offshore - Shipping (NT),7,Northern Territory,0
+80100101,Belconnen,801001,Canberra - North,801,ACT,8,Australian Capital Territory,136.9366
+80100102,Braddon - Kowen,801001,Canberra - North,801,ACT,8,Australian Capital Territory,209.9579
+80100103,Gungahlin,801001,Canberra - North,801,ACT,8,Australian Capital Territory,90.7358
+80100201,Narrabundah - Weston,801002,Canberra - South,801,ACT,8,Australian Capital Territory,128.4578
+80100202,Tuggeranong,801002,Canberra - South,801,ACT,8,Australian Capital Territory,150.5001
+80100301,Stromlo - Namadgi,801003,Stromlo - Namadgi,801,ACT,8,Australian Capital Territory,1641.5838
+89499494,No usual address (ACT),894994,No usual address (ACT),894,No usual address (ACT),8,Australian Capital Territory,0
+89799797,Migratory - Offshore - Shipping (ACT),897997,Migratory - Offshore - Shipping (ACT),897,Migratory - Offshore - Shipping (ACT),8,Australian Capital Territory,0
+90100101,Christmas Island,901001,Christmas Island,901,Christmas - Cocos (Keeling) Is.,9,Other Territories,136.1356
+90100201,Cocos (Keeling) Islands,901002,Cocos (Keeling) Islands,901,Christmas - Cocos (Keeling) Is.,9,Other Territories,13.7163
+90200101,Jervis Bay exc. Wreck Bay,902001,Jervis Bay,902,Jervis Bay,9,Other Territories,63.4766
+90200102,Wreck Bay,902001,Jervis Bay,902,Jervis Bay,9,Other Territories,4.3368
+90300101,Norfolk Island,903001,Norfolk Island,903,Norfolk Island,9,Other Territories,38.6509
+99499494,No usual address (OT),994994,No usual address (OT),994,No usual address (OT),9,Other Territories,0
+99799797,Migratory - Offshore - Shipping (OT),997997,Migratory - Offshore - Shipping (OT),997,Migratory - Offshore - Shipping (OT),9,Other Territories,0
